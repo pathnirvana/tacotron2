@@ -1,3 +1,5 @@
+used for pali and sinhala tts 
+
 # Tacotron 2 (without wavenet)
 
 PyTorch implementation of [Natural TTS Synthesis By Conditioning
