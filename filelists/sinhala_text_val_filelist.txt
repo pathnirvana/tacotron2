@@ -1,0 +1,63 @@
+/mnt/e/tts_datasets/sinhala/final/sin_2241_0598895166.wav|ඇන්ජලීනා ජොලී කියන්නේ පසුගිය දිනවල බොහෝ සෙයින් කතා බහට ලක්වූ චරිතයක්.
+/mnt/e/tts_datasets/sinhala/final/sin_2241_2169117644.wav|මෙතන ඉදලා මේ පාර කොටස ගැනත් පොඩි හැදින්වීමක් දෙන්නම්කො.
+/mnt/e/tts_datasets/sinhala/final/sin_2241_3958755289.wav|ඉතිං එහෙම එකේ උන් ඕවට වියදම් කරන්න මැලි වෙන්නේ නැහැ.
+/mnt/e/tts_datasets/sinhala/final/sin_2241_5961008980.wav|ඇෆ්ගනිස්තානය පකිස්තානය තිමෝරය ද එම රටවල් අතරට එක්වේ.
+/mnt/e/tts_datasets/sinhala/final/sin_2241_7269780178.wav|මේවාට විරුද්ධ ජනතාව සංවිධානය වී පා ගමන් ගියා.
+/mnt/e/tts_datasets/sinhala/final/sin_2241_9304867830.wav|සෙලාන් සමග ඊට විශාල වෙනසක් නොතිබුණත් කමර්ෂල් බැංකුවට එතරම් මිළක් ඇත්තේ මන්දැයි හිතා ගන්නවත් බැහැ.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_0570725129.wav|මේවා මූලික යුගය තුළ හොඳින් වැඩිලා තිබුණේ නෑ.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_2248128461.wav|ආදිවාසීන්ට නිදහසේ ජීවත්වෙන්න ඉඩදෙන්න කියලා.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_3763216109.wav|එදාට ඇය නවකතා පොතක් අස්සෙ දාල ලියුමක් එවනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_5395978311.wav|උනුත් ඉතින් වැඩිය ගණන් නොගෙන නිකන් ඉන්නවා.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_7659803756.wav|මේවායේ කටයුතුවලට සතුරු පීඩා මතු කරන මාසයකි.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_9767603851.wav|බල්ලන් හත් අට දෙනෙකුගේ රංචුවක්ද දැකගත හැකිවිය.
+/mnt/e/tts_datasets/sinhala/final/sin_3531_1304429987.wav|ඔහු රැකියා සොයා ගියේ කුසගින්න දරා ගැනීමට බැරිවන විටදී පමණි.
+/mnt/e/tts_datasets/sinhala/final/sin_3531_3469309617.wav|බාහිරින් දකින දේ බලලා කිසිවක් තීරණය කරන්න එපා.
+/mnt/e/tts_datasets/sinhala/final/sin_3531_5440369099.wav|අගනුවර වන බැග්ඩෑඩ් නුවර පිහිටා ඇත්තේ රටෙහි නැගෙනහිර මැද කොටසෙහිය.
+/mnt/e/tts_datasets/sinhala/final/sin_3531_7621876522.wav|මුදුන කොටසේ ධාතුන් වහන්සේලා වෙනුවෙන් වෙන් කළා.
+/mnt/e/tts_datasets/sinhala/final/sin_3531_9463490913.wav|මේ කුණුකය විසිතුරු සඳුන් භාජනයක් සේ සරසා ඇත.
+/mnt/e/tts_datasets/sinhala/final/sin_3688_0763934486.wav|මේ විධියට වේල් තුනෙන් ම බත් පිඬු පහළොවක් අඩුවේ.
+/mnt/e/tts_datasets/sinhala/final/sin_3688_2798225647.wav|අච්චුවේලී පොලීසිය වැඩිදුර පරීක්ෂණ කටයුතු මෙහෙයවයි.
+/mnt/e/tts_datasets/sinhala/final/sin_3688_4905708888.wav|ගවයා මිනිසුන්ගේ එදිනෙදා ජීවිතේට කොතරම් සමීප සහයක් දෙනවද.
+/mnt/e/tts_datasets/sinhala/final/sin_3688_6605848398.wav|මේවා එක පැත්තකින් සාකච්ඡා විය යුතු දේවල්.
+/mnt/e/tts_datasets/sinhala/final/sin_3688_8190507112.wav|එම කිඹුලන් දෙදෙනා වෙනත් පරිසරයකට මුදාහරිනු ලැබිණි.
+/mnt/e/tts_datasets/sinhala/final/sin_3976_2388436848.wav|මේක තමා ලංකාවේ බොහොමයක් සමාගම් තුල තත්වය.
+/mnt/e/tts_datasets/sinhala/final/sin_3976_5945767569.wav|මුලින් නැගල ගියත් ටික කාලෙකින් වැඩේ නැවතිලා ගියා.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_0309078700.wav|ඇතුල්වන විටම ඇති සැප පුටුවක තරුණයන් දෙදෙනෙක් දුම් වැටියක් උරමින් සිටියේ ය.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_1850020742.wav|මෙම ස්ථානය වර්තමාන අඹතලේ මංසන්ධියේ ඇති පරණ පාරේ රණබිම මාවත ආසන්නයේ පැවති බව සැලකේ.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_3943004315.wav|මෙම යුගයේදී නොයෙක් නීච කුල ජාතිකයන් රජ වෙති.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_6060066583.wav|දෙවැනි එකත් හින්දි එකක්ම දෙන්න කියලා ඉල්ලනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_8104288206.wav|පරම්පරාවෙන් පරම්පරාවට කියල දෙන එව්ව කොච්චර තියනවද.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_9753595406.wav|ආතර් සී ක්ලාර්ක් මහතා මීට කලකට පෙර මේ තත්වය ගැන අනාවැකි පලකලා.
+/mnt/e/tts_datasets/sinhala/final/sin_4499_1814411882.wav|මොරගොල්ලේ සිරි ඤාණෝභාස තිස්ස නාහිමිගේ අර්ථ විවරණය.
+/mnt/e/tts_datasets/sinhala/final/sin_4499_4334139963.wav|මොකද අනෙක් පදක්කම් වලට වටිනාකමක් නැති වෙනව.
+/mnt/e/tts_datasets/sinhala/final/sin_4499_6000339608.wav|රජරට එළාර රජුට විරුද්ධව මාගම සිට පිටත් වූ යුද සේනාව.
+/mnt/e/tts_datasets/sinhala/final/sin_4499_7187342925.wav|යාපනයේ අයටත් එදා පුස්තකාල ගිනි තියපුවා අමතකයි.
+/mnt/e/tts_datasets/sinhala/final/sin_4499_9261229715.wav|සල්ලි නැති කෙනෙකුට උනත් ඉගෙනගන්න පුලුවන්නෙ.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_1680024888.wav|මඩේ උපන් පියුම දිය මතු පිටට පැමිණෙන විකසිත වෙයි.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_3100818596.wav|මේවැඩවල වගකීම් කොටසක් ඔබතුමීත් බාරගන්න ඕනේ.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_4964585344.wav|දොඩංවල පවුලේ සාමාජිකයු විසින් එහි හිමිකාරිත්වය දරයි.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_6439973303.wav|එතනින් තමයි ඔවුන් මායාකාරියන්ව දඩයම් කරන්න පටන් ගන්නේ.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_7906646426.wav|මුල් දවස්වල නම් මට ඒ සිද්ධිය දරා ගන්න බැරි වුණා.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_9602145904.wav|මුත්තුසාමි මාස්ටර්ගේ ගීත මොහාන් රාජ් කියන්නේ.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_1300444170.wav|යටි රැවුල සම්පුර්ණයෙන්ම ගැලවිලා විසිවුණා නේද.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_3501793570.wav|මේ විශේෂය ලංකාවේ ජලාශවල බෝවීමට පටන් ගත හොත් බොහෝ තර්ජන එල්ලවීමට ද ඉඩ ඇත.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_5352421809.wav|මොරිටේනියාව ආහාර සැපයුම අතින් දුප්පත් රටකි.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_7220126978.wav|යාල ඇතුළේ වාහන පැදවීමේ කිසිම විනයක් නැහැ.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_8834553309.wav|යනුවෙන් ජීවක උපාසකතුමා බුදුරජාණන් වහන්සේගෙන් විමසුවේය.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_0062885355.wav|මොහු දැන් පිස්සු රෝගය වැළදුන සුනක පෝතකයෙක් හා සමානය.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_2169391183.wav|පෙරහැර තුළ නැකැත් සඳහා විශේෂ ස්ථානයක් හිමිවෙනවා නේද.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_4166086677.wav|හින්දි සිනමාවෙත් එවන් ඒවා ඕනෑ තරම් තියෙනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_5434630604.wav|මොකද කාලෙකින් මම මෙහෙ සිනමාව ගැන දන්නෙ නැති නිසා.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_7208387668.wav|රජතුමා ඒකේ නිර්මාණ වටිනාකම දැක්ක එකත් නියමයි.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_9198119230.wav|ගූගල් කියන්නෙ දැන් ඇල්ෆබට් කියන කොම්පැණියෙ කොටසක්.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_0662909042.wav|ඔබටම ඉදිරි ලිපියකින් හොඳන් පැහැදිලි කල හැකි බව මට තේරෙනව.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_2253379439.wav|මෙම ස්වාමි භාර්යා යුතුකම් ඉටුවන පවුල් පරිසර සාර්ථකය.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_4895267032.wav|මේක බුදු හාමුදුරුවන්ට කරපු දරුණු අපහාසයක්.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_6716425545.wav|ඇත් ගව මුව වඳුරු නාග ආදී සත්ත්ව කුලවල ඉපිද ඇත.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_8567461997.wav|මිනිසුන්ට ජීවිත සැනසීමේ උදාර අත්දැකීම් ලැබිණ.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_9879367314.wav|නමුත් එයාට සාර්ථක අස්වැන්නක් නෙලාගන්න බෑ.
+/mnt/e/tts_datasets/sinhala/final/sin_9228_1716458671.wav|එකී විශ්වාස බොහොමයක් මිනිසුන් අතර පවතිනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_9228_3477458886.wav|එතැනදී ඔහුට ජිවිතයෙන් වන්දි ගෙවන්න සිදුවෙනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_9228_5814856317.wav|නඩු විභාගයේදී ඉන් අට දෙනෙක් වැරදිකරුවෝ වූහ.
+/mnt/e/tts_datasets/sinhala/final/sin_9228_7309555488.wav|මුදලාලි ඒක පිලි නොගන්න නිසා කොත්තු බාස් ගෙන්නුව.
+/mnt/e/tts_datasets/sinhala/final/sin_9228_9328316557.wav|මෙම ජීවීන් පැමිණෙන යානා පිළිබඳ යම් පැහැදිලි කිරීමක් කළහොත්.

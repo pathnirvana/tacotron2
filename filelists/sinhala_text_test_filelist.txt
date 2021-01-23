@@ -1,0 +1,63 @@
+/mnt/e/tts_datasets/sinhala/final/sin_2241_0329430812.wav|කෝකටත් මං වෙනදා තරම් කාලෙ ගන්නැතිව ඇඳ ගත්තා.
+/mnt/e/tts_datasets/sinhala/final/sin_2241_2071126924.wav|රගර් ගැහුවා කියල කොහොමද බූරුවො වොලි බෝල් නැති වෙන්නෙ.
+/mnt/e/tts_datasets/sinhala/final/sin_2241_3882175305.wav|සිංගප්පූරුවේ හිටපු ජනාධිපති ලී ක්වාන් යූ වසර දෙකකට පමණ කැසිනෝවලට අවසරදී තිබුණත් පසුව දිගටම පවත්වාගෙන යයි.
+/mnt/e/tts_datasets/sinhala/final/sin_2241_5939934305.wav|එතනින් පස්සෙ ජෝන්ගෙ ජීවිතේ වෙනස්ම පැත්තකට පෙරලෙනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_2241_7249602248.wav|සැටලයිට් රිසීවර් එකකුත් හොයාගත්ත ඩිෂ් එකක් නෑ.
+/mnt/e/tts_datasets/sinhala/final/sin_2241_9170939058.wav|යුද්ධය කියන්නේම මානව හිමිකම් නැතිවෙන අවස්ථාවක් නේ.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_0472859551.wav|ඉරටු කූරක් අමුවෙන් කැමති හැඩයකට නැවිය හැකි ය.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_2140134972.wav|හිතාගන්න පුළුවන්නේ ෆිල්ම් එක කොහොමට ඇතිද කියලා.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_3690162757.wav|එම යානා සේවයට යොදවා ඇත්තේ එම්රේට්ස් ක්වාන්ටාස් සිංග්පූර් සහ කැතේ පැසිෆික් යන ගුවන් සේවා විසිනි.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_5287697350.wav|පාලි භාෂාව ගැන මේ තරම් උනන්දු විය යුත්තේ ඇයි.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_7573934326.wav|බණ්ඩාරනායක බැහැ කිවුව පාර උන් ඒක අශෝක් ලේලන්ඩ් කියල ඉන්දියාවේ දැම්ම.
+/mnt/e/tts_datasets/sinhala/final/sin_2282_9519354859.wav|දෙවැනි අදියර නොවැම්බරයේ ආරම්භ කිරීමට නියමිතය.
+/mnt/e/tts_datasets/sinhala/final/sin_3531_1204673182.wav|මෙතරම් වයසට ගිහිනුත් මේ තැනැත්තා වැඩ කරනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_3531_3421166864.wav|මුදු හා මාල කිහිපයක් ද මේ වලෙන් සොයා ගැනිණි.
+/mnt/e/tts_datasets/sinhala/final/sin_3531_5427833618.wav|කෝච්චියේදී මේ තුන් දෙනාට යාළුවෙක් හම්බෙනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_3531_7533642183.wav|ඔවුහු මීගමුව කලුතර හා බේරුවල කොල්ල කෑහ.
+/mnt/e/tts_datasets/sinhala/final/sin_3531_9266896424.wav|මීට විරුද්ධව මොවුන් අභියාචනා ඉදිරිපත් කරනු ඇත.
+/mnt/e/tts_datasets/sinhala/final/sin_3688_0695573995.wav|එක ඇසක පෙනුමේ දුබලතාව හැරුනාම වෙනත් කිසිම රෝගාබධයක් නැත.
+/mnt/e/tts_datasets/sinhala/final/sin_3688_2770052029.wav|මෙවිට ඔහුට ධර්ම මාර්ගයේ ඉදිරියට යෑමට බාධාවක් නෑ.
+/mnt/e/tts_datasets/sinhala/final/sin_3688_4856684728.wav|කාබුල් නගරය ඇෆ්ගනිස්ථානයේ අගනගරය හා විශාලතම නගරය වන අතර එය කාබුල් පළාතේ පිහිටා ඇත.
+/mnt/e/tts_datasets/sinhala/final/sin_3688_6558026682.wav|මුවමස් කියලා මී හරක් පැටවුන්ගේ මස් නම් දෙනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_3688_8016892543.wav|මුලින්ම රඟපෑමට ඇවිත් ඇක්ෂන් කියන කොටම හරියට එය කළාද.
+/mnt/e/tts_datasets/sinhala/final/sin_3976_1608479442.wav|මන්චි ආයතනයත් සම්පත් බැංකුවත් මැලිබන් ආයතනයත් මට කලාව වෙනුවෙන් බොහෝ උපකාර කරනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_3976_5771960975.wav|සයිමන් සංසාරය ඔහේ තිබුණාවේ කියලා ඉන්නේ නෑ.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_0294479014.wav|බටහිරයන් නිර්වින්දනය ගැන අසා තිබුනේ වත් නැහැ.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_1621484430.wav|හෙක්ටර් කොබ්බෑකඩුව ගොවි කටයුතු පර්යේෂණ හා පුහුණු ආයතනය.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_3849203268.wav|උම්බලකඩ කෑල්ලක් තරම්වත් මාංශමය ආහාර එහි නැත.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_5979446614.wav|මෙතන ඉඳන් ගමන යන්න පුළුවන් උස වාහනයක විතරයි.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_7979120429.wav|මේ දන්තධාතු මන්දිරය මුළුමනින්ම නිමවා ඇත්තේ සත් රුවනිනි.
+/mnt/e/tts_datasets/sinhala/final/sin_4191_9663352176.wav|අබේකෝන් මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+/mnt/e/tts_datasets/sinhala/final/sin_4499_1807969031.wav|මොම්ටාස් නිතරම හිතන්නේ මෙයා ගැන වැරදියට.
+/mnt/e/tts_datasets/sinhala/final/sin_4499_4310038373.wav|රඟපෑමෙන් යම් කිසි හොඳ දෙයක් කිරීම මුදලට වඩා අගයනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_4499_5880983232.wav|රට්ඨපාල කුමරු ගිහිගෙය හැර පැවිදි වී සිටියි.
+/mnt/e/tts_datasets/sinhala/final/sin_4499_7098951172.wav|මීට අමතරව මිනිහා අනුන්ගේ රෙදි හෝදන වැඩෙත් කරනවා.
+/mnt/e/tts_datasets/sinhala/final/sin_4499_8955203282.wav|හැබැයි සමන් මහත්තයාව නම් දැකල තියෙනවා හොඳට.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_1620834144.wav|මෙම ධනය පැමිණෙන්නේ මෙරට බැංකු පද්ධතිය ඔස්සේය.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_2957072095.wav|ආයුධ පුහුණව නැතත් මෙය සිදු කරන්නේ හමුදාව විසින්.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_4924144622.wav|ඉස්කෝල අරිනවා කියන්නේ හිරගෙවල් වහනවා කියන එක.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_6384042473.wav|මේ පවුලෙ සාමාඡිකයින් එකිනෙකා අභිරහස් විදියට මරා දමනව.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_7767142350.wav|මේ වැඩපිළිවෙල දිගටම කරගෙන යන්න හිතෙන්නෙ නැහැ.
+/mnt/e/tts_datasets/sinhala/final/sin_5681_9282809421.wav|මේ විහාරස්ථානය සුවිශේෂ විහාරාංගයන්ගෙන් සමන්විත වේ.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_1184517183.wav|රජ පවුලට එක් වූ මේ අලුත් සිඟිත්තාට කවුරුත් ආදරය කළා.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_3486928054.wav|අලුතින් ගොවිපල වැඩිදියුණු කරගත හැකි කාලයකි.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_5299091242.wav|හැබැයි ගෙදරින් ගෙනාපු කොස්සකිනුත් අතුගානවා.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_7142142128.wav|යකෝ කොපිය ඊයේ ආවා අද සිංහල උප සිරැසිත් දීලා.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_8816839818.wav|ලෙඩට බෙහෙත් ගන්න සල්ලි නැති මිනිස්සු ඉන්නවා.
+/mnt/e/tts_datasets/sinhala/final/sin_6314_9916286010.wav|මොවුන් වැඩිපුරම සිටිනුයේ වෙරළබඩ සංචාරක කලාපවලය.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_2109872394.wav|රජතුමා තමන්ව මාලිගයට කැඳවන බව දැනුම් දුන්නා.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_4087064079.wav|ලංකාවේ බුද්ධාගමට වෙනත් විකල්ප තිබුණේම නැත.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_5410778091.wav|මොනාවුනත් ඉතින් ස්තූතියි කිව්වා උපසිරැසියට.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_7056451547.wav|ලොරියා අරරාජ් ආලාර කාලාම තවුසාගේ ආරාමයයි.
+/mnt/e/tts_datasets/sinhala/final/sin_6897_9092370777.wav|මොකක් හරි අවාසනාවකට අපට ඒ යුගය මගහැරිලා ගියා.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_0579095098.wav|ඉන් එක් එන්ජිමක් පැහැදිලිව හඳුනාගත හැකිය.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_2226071954.wav|ඉන්දියාව ලොකයේ විශාලතම ගව ගහණය සිටින රට නෙමෙයි.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_4789881794.wav|මුං කවදාවත් විවේචන පිළිගත්ත ජාතියක් නෙවි.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_6694631860.wav|මෙම පිළිගැනීම බුදුදහමෙහි සුවිශේෂී තැනක් ලැබේවි.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_8385884802.wav|මෙසේ නොකලොත් අනාගතයේදී මේ යෝග හමුදාව නඩත්තු කල හැකිද.
+/mnt/e/tts_datasets/sinhala/final/sin_7183_9872160116.wav|මුලා වූ මුවන් මරා වැද්දා ආහාරයට ගන්නා ලදී.
+/mnt/e/tts_datasets/sinhala/final/sin_9228_1628421309.wav|මේකා ලංකා කිතුනුවන් සහ සිංහලයන් කොටවන කටු ලෙවකන්නෙක්.
+/mnt/e/tts_datasets/sinhala/final/sin_9228_3457048317.wav|මෙයින් හින්දු ආගමික සිතින් ඇගයුමට ලක්වෙයි.
+/mnt/e/tts_datasets/sinhala/final/sin_9228_5636089475.wav|මෙරට එකම වෙදකම බවට බටහිර වෙදකම බවට පත්විය.
+/mnt/e/tts_datasets/sinhala/final/sin_9228_7273610721.wav|මෙවැනි සංසිද්ධීන් කිසිවකුට වෙනස්කළ නොහැකි ය.
+/mnt/e/tts_datasets/sinhala/final/sin_9228_9037714618.wav|මෙහි අගනුවර වන්නේ කරකස්ය.
