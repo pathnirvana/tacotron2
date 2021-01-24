@@ -1,0 +1,1125 @@
+/home/datasets/sinhala/referenced/sin_2241_0701577369.wav|aarthika cintanaya haa saamaajiiya diyunuva aeti kala haekivanuyee pudgala aarthika diyunuva salasaa diimenya.
+/home/datasets/sinhala/referenced/sin_2241_0715400935.wav|in adahas vannee vicaaraatmaka vinivida daekiimen tora baelmayi.
+/home/datasets/sinhala/referenced/sin_2241_0817100025.wav|apa yuddhayee palamu piyavareediima paraada vii avasaanaya.
+/home/datasets/sinhala/referenced/sin_2241_0894513578.wav|ituru velaa tibunee guneegee pintuuraya vitarayi.
+/home/datasets/sinhala/referenced/sin_2241_0914770956.wav|oyaagee naeTumvalaTa madhuri Diksit paradanavaa kiyalaa vihilu karanavaa.
+/home/datasets/sinhala/referenced/sin_2241_0957633175.wav|dehiattakanDiyee duskara paasalaka saalaavak saeediima.
+/home/datasets/sinhala/referenced/sin_2241_1051256718.wav|aTavisiyak seneviyoo haatpasa raekavallaa siTiyaahuya.
+/home/datasets/sinhala/referenced/sin_2241_1094955559.wav|anatura sidukala polis niladhaariyaada ada ataDamguvaTa gena aeta.
+/home/datasets/sinhala/referenced/sin_2241_1110951919.wav|usaaviyakadii vuvat kiyana kaaranaavak oppu kala yutuya.
+/home/datasets/sinhala/referenced/sin_2241_1158002967.wav|mama adahas karannee mee kanDaayam naevata matuvenavaa kiyana ekama nemeyi.
+/home/datasets/sinhala/referenced/sin_2241_1160192708.wav|adhi maanasika balayak tibee yaeyi kiyana siyallanTamaya.
+/home/datasets/sinhala/referenced/sin_2241_1297590493.wav|mema indasaala guhaava pihiTiyee kumana sthaanayakada.
+/home/datasets/sinhala/referenced/sin_2241_1387637240.wav|mehilaa paryeesakayanTa vimasannaTa itiri vuu deyak naeta.
+/home/datasets/sinhala/referenced/sin_2241_1477007898.wav|mutu aeTa vikunalaa mudal laebuna.
+/home/datasets/sinhala/referenced/sin_2241_1628739974.wav|sarala simhalayen gattama pabaavatii yanu ran tal kandaki.
+/home/datasets/sinhala/referenced/sin_2241_1739595290.wav|mee siyalla kataragama puujaabhuumiyaTa ek vuuyee pasu kaaliinava ya.
+/home/datasets/sinhala/referenced/sin_2241_1906673954.wav|mema tattvaya daruvan kihipadeneku siTina pavulaka nam vaDaat barapatalaya.
+/home/datasets/sinhala/referenced/sin_2241_1922158353.wav|aetta vasayenma ovungee ceetanaava agaya kala yuttaki.
+/home/datasets/sinhala/referenced/sin_2241_2260885335.wav|muulika sudusukam naeti aya tamayi bandavaa gena tibennee.
+/home/datasets/sinhala/referenced/sin_2241_2274399168.wav|iiyee api kilinocciyee siTa peleyivalaTa dumriya raegena giyaa.
+/home/datasets/sinhala/referenced/sin_2241_2326423655.wav|umbee daruvaaTa viseesa avadhaanayak dennaTa nohaekiya.
+/home/datasets/sinhala/referenced/sin_2241_2455158637.wav|mulinma putek laebunu eka hondayi kiyalaa daen hitenavaa.
+/home/datasets/sinhala/referenced/sin_2241_2617308867.wav|aetta vasayenma ohugee paeni komaDu vagaaven da tunen pamguvak vinaasa vii gosin.
+/home/datasets/sinhala/referenced/sin_2241_2690846268.wav|meeka muulika vasayen samaajavaadii manasak tiyena raTak.
+/home/datasets/sinhala/referenced/sin_2241_2929631181.wav|in pasuva uturee maetivaranaya paevaetviima gaeTaluvak neveyi.
+/home/datasets/sinhala/referenced/sin_2241_3002527648.wav|mee saasana saddharmaya avurudu dahasak pavatinnee ya.
+/home/datasets/sinhala/referenced/sin_2241_3130519046.wav|viduhalpatigee kaTahanDa paasala avaTa raev demin paetirini.
+/home/datasets/sinhala/referenced/sin_2241_3154512466.wav|meccara kal nobalaa siTiyee kaalaya hoyaaganna baeriva.
+/home/datasets/sinhala/referenced/sin_2241_3203593051.wav|balamu needa apee viirayaagee vaeDa kiDa kohomada kiyalaa.
+/home/datasets/sinhala/referenced/sin_2241_3248119210.wav|giniyam vuu taeeTiya mata inna puluvan jagataa kavda.
+/home/datasets/sinhala/referenced/sin_2241_3320697504.wav|miiduma eka eka paettaTa perali perali apiva pissu vaTvanavaa.
+/home/datasets/sinhala/referenced/sin_2241_3388309517.wav|meeka mohugee daksataa mata siduvunu dulaba siduviimak.
+/home/datasets/sinhala/referenced/sin_2241_3396572759.wav|mema caarikaava puraavaTa apa haa raendunu obaTa bohoma stutiyi.
+/home/datasets/sinhala/referenced/sin_2241_3729570045.wav|yuvalagee siyalu balaaporottu saphala vannee ehidiiya.
+/home/datasets/sinhala/referenced/sin_2241_3736911555.wav|miiTa passee taman kala dee pamanak taman kala bava kiyanna.
+/home/datasets/sinhala/referenced/sin_2241_3853049089.wav|aasiyaanu nispaadanavaadaya pilibanda maaksgee adahasayi.
+/home/datasets/sinhala/referenced/sin_2241_4134952636.wav|igena ganna lamunTa hugak deeval daenaganna puluvan.
+/home/datasets/sinhala/referenced/sin_2241_4157088146.wav|unanduven udyoogayen meevaayee nirata viya haeka.
+/home/datasets/sinhala/referenced/sin_2241_4246299478.wav|aadaayama satuTudaayaka maTTamaka pavatina atara aagamika kaTayutu kerehi unanduvak dakvana davasaki.
+/home/datasets/sinhala/referenced/sin_2241_4277756245.wav|aneepinDu siTutumaaTa diyanivaru tun denek hiTiyaa.
+/home/datasets/sinhala/referenced/sin_2241_4285331626.wav|ramgana silpiniyak kiyaa venas jiivitayak maTa naehae.
+/home/datasets/sinhala/referenced/sin_2241_4370008255.wav|puhudun taenaettaa niraturuva dakinnee phalaya pamani.
+/home/datasets/sinhala/referenced/sin_2241_4397240723.wav|minisaa labaagena aeti utumma daayaadayak vannee parisarayayi.
+/home/datasets/sinhala/referenced/sin_2241_4754043665.wav|mekii tattvaya raTak lesa kisi lesakin vat hitakara vuuvak novee.
+/home/datasets/sinhala/referenced/sin_2241_4872639475.wav|akunu eliyaTa kaamaree saerin saeree eliya vaeTunaa.
+/home/datasets/sinhala/referenced/sin_2241_4911457039.wav|upaadhidhaariinTa pariganaka puhunuva.
+/home/datasets/sinhala/referenced/sin_2241_5145464361.wav|yaturupaedi sTanT gaena amutuven kiyanna deyak naehaenee.
+/home/datasets/sinhala/referenced/sin_2241_5171949005.wav|mema avasthaavaTa visaala baetimatun pirisak sahabhaagii vii siTiyaha.
+/home/datasets/sinhala/referenced/sin_2241_5478392200.wav|pasa tula ahitakara baekTiiriyaa diliira vardhanaya viima.
+/home/datasets/sinhala/referenced/sin_2241_5531575649.wav|apa nidahas maavata digee gos aturu paarakaTa haerunemu.
+/home/datasets/sinhala/referenced/sin_2241_5545272033.wav|sTaefarD mooTars aayatanaya mangin eya iTu kara diimaTa manga saelaes vuuyee vimaladaasa pereeraaya.
+/home/datasets/sinhala/referenced/sin_2241_5577248646.wav|taayilantayee visaalatama nagaraya vannee baemkokya.
+/home/datasets/sinhala/referenced/sin_2241_5737322470.wav|oogollanTa kandavuru gahannat metana haekiyaava tiyenavaa.
+/home/datasets/sinhala/referenced/sin_2241_5856425003.wav|aadivaasiingee sirit virit puda puujaa adat daekagata haekiya.
+/home/datasets/sinhala/referenced/sin_2241_5961160525.wav|meevaa kesee nam aitihaasika bhautikavaadayat samanga paena naengennee da.
+/home/datasets/sinhala/referenced/sin_2241_5983855127.wav|aatma saktiya maenavin goDanaegena maasayak da vee.
+/home/datasets/sinhala/referenced/sin_2241_6077399409.wav|mee niscala chaayaaruupaya Tom haeenks ranga paee sinamaa paTayakini.
+/home/datasets/sinhala/referenced/sin_2241_6131765660.wav|mema kunaaTuva miiTar hatak dakvaa usva naengii tibuni.
+/home/datasets/sinhala/referenced/sin_2241_6164526854.wav|mee situvilla anun kerehi paturuvaa harinnaki.
+/home/datasets/sinhala/referenced/sin_2241_6173212296.wav|tavada koTaa paara saha bauddhaalooka maavata yana maargayanhi vaahana tadabadayak nomaeti bava polisiya kiyaa siTiyi.
+/home/datasets/sinhala/referenced/sin_2241_6288088681.wav|aet govvanTada saramak kamisayak aetulu tamanTa vuvamanaa kalamanaa taeegi lesa laebeyi.
+/home/datasets/sinhala/referenced/sin_2241_6446549054.wav|muhudu patulee lookaya numba samanga haemadaama mituruyi.
+/home/datasets/sinhala/referenced/sin_2241_6481028570.wav|mula siTama aaraksaava vunee idiriyaTa dena ekama tamayi.
+/home/datasets/sinhala/referenced/sin_2241_6531403825.wav|un simhala bhaasaavaTa siritvirit valaTa vaira karanavaa.
+/home/datasets/sinhala/referenced/sin_2241_6534612621.wav|mee piliibandava janayaagee viroodhaya viveecanaya paena naenguuha.
+/home/datasets/sinhala/referenced/sin_2241_6541430912.wav|muladii mema guvanviduliyaTa aadivaasii naayakayaa akamaetiviya.
+/home/datasets/sinhala/referenced/sin_2241_6708103880.wav|dakunee aetaem koTasakut duk vindimin innavaa.
+/home/datasets/sinhala/referenced/sin_2241_6861382253.wav|meekaTa naayakatvaya denna sudusuma tamayi apee rajatumaa.
+/home/datasets/sinhala/referenced/sin_2241_6885399424.wav|raavanaa rajatumaa gaena taram saaksi kisima rajatumek gaena sandahan naee.
+/home/datasets/sinhala/referenced/sin_2241_7000581434.wav|miigamu kalapuva looka uruma parisara paddhatiyan taramaTa vaedagat vana samveedii parisara paddhatiyaki.
+/home/datasets/sinhala/referenced/sin_2241_7029336488.wav|mema stuupaya gajabaa raju visin devana varaTa visaala koTa bandavaa aeta.
+/home/datasets/sinhala/referenced/sin_2241_7163162985.wav|mee nisaa kusala karma dahayak sapuraa gannaTa puluvan.
+/home/datasets/sinhala/referenced/sin_2241_7335788423.wav|muhudaTa ehaa tiyena nagara dekaka vecca siduviimak matak kara gammu.
+/home/datasets/sinhala/referenced/sin_2241_7437300865.wav|yana gaman manga gaenat poDDak kiyanna puluvanda.
+/home/datasets/sinhala/referenced/sin_2241_7472301414.wav|mulu raesviima sandahaa edaa visaala janakaayak paemina siTiyaha.
+/home/datasets/sinhala/referenced/sin_2241_7573097860.wav|ruvanmaeli saeeyen laebunu karanDuvaka mevaeni haeDayak aeta.
+/home/datasets/sinhala/referenced/sin_2241_7669456196.wav|dangalannee naetuva indapan.
+/home/datasets/sinhala/referenced/sin_2241_7770234536.wav|miyagiya pudgalayaaTa karana saebaee gauravayak da novee.
+/home/datasets/sinhala/referenced/sin_2241_7959803271.wav|meevaaTa pilituru laebenakoTa nam muuna hirivaeTenavaa.
+/home/datasets/sinhala/referenced/sin_2241_7997082894.wav|metaena vennee vagakiim haa yutukam gaena kerena samvaadayak.
+/home/datasets/sinhala/referenced/sin_2241_8056047909.wav|mee vaeDa sandahaa apaTa vaeDihiTiyangee nomada sahaaya laebini.
+/home/datasets/sinhala/referenced/sin_2241_8312189082.wav|mehi gam vaesiyan kisiveku mas maamsa anubhava nokarayi.
+/home/datasets/sinhala/referenced/sin_2241_8405129617.wav|mee sitee itaama maayaakaarii vidihaTa mema dveesaya nirmaanaya venavaa.
+/home/datasets/sinhala/referenced/sin_2241_8452702249.wav|meya pudgala jiivitayee aetivana avasan sitivillayi.
+/home/datasets/sinhala/referenced/sin_2241_8457350842.wav|meya haendinviimaTa yedena tavat paryaaya padayak vannee.
+/home/datasets/sinhala/referenced/sin_2241_8705683857.wav|meeka minindooru depaartumeentuvee datta anuva vellankaree vila.
+/home/datasets/sinhala/referenced/sin_2241_8709881905.wav|pannipiTiye depaanama deevaala paare gihin gala uDa pansala kiyalaa aehuvanam ooka kenek kiyayi.
+/home/datasets/sinhala/referenced/sin_2241_8833594116.wav|iDak laebunot mee behetat piTaraTaTa vikunaa ganiivi.
+/home/datasets/sinhala/referenced/sin_2241_8861238822.wav|aasiyaanu nispaadanavaadaya pilibanda maaksgee adahasayi.
+/home/datasets/sinhala/referenced/sin_2241_9030374175.wav|miimuree tava duraTat aaraksita taenak noveyi.
+/home/datasets/sinhala/referenced/sin_2241_9353193483.wav|iiTapasse hemi hemin ahasaTa piyaambanna paTan gattaa.
+/home/datasets/sinhala/referenced/sin_2241_9373766440.wav|dharmaasooka rajatumaa ee taenvala kulunu pihiTevvaa.
+/home/datasets/sinhala/referenced/sin_2241_9472922689.wav|iilagaTa koTasa mama aran ennam puluvan ikmanin.
+/home/datasets/sinhala/referenced/sin_2241_9594771771.wav|visaakage caritayaTa maava yoojanaa karalaa tibunee nehaaraa piiris.
+/home/datasets/sinhala/referenced/sin_2241_9656525366.wav|aaraksaka amsayaTa sambandha goDak aya mee horunTa ahuvenavaa.
+/home/datasets/sinhala/referenced/sin_2241_9678229376.wav|menna mee vagee vidimat katikaavakin apa kaaTat hadenna haekiyi.
+/home/datasets/sinhala/referenced/sin_2241_9685884087.wav|bohoo denek sudu aenduma mebandu avasthaavala dii bhaavitayaTa ganiti.
+/home/datasets/sinhala/referenced/sin_2241_9704365016.wav|adahas dakvana yaaluvo haemooTamat bohoma stuutiyi.
+/home/datasets/sinhala/referenced/sin_2241_9783455642.wav|api pasugiya koTasa gaena matak karagammu.
+/home/datasets/sinhala/referenced/sin_2241_9939950696.wav|mema japaana raajadhaaniyee saamaya aaraksaa kalee samuraayi varu visinuyi.
+/home/datasets/sinhala/referenced/sin_2282_0021599733.wav|mema nivasaTa apa yana viTadii vasaa damaa tibuunu atara nivasee kisivaku nosiTiyeeya.
+/home/datasets/sinhala/referenced/sin_2282_0259733284.wav|matpaen dumvaeTi genvaa gannaa piyavaru siTiti.
+/home/datasets/sinhala/referenced/sin_2282_0272883957.wav|idiri paeya kihipayee kala yuttee kumakdaeyi nodanii.
+/home/datasets/sinhala/referenced/sin_2282_0388541935.wav|akamaetta haa kaemaetta saegaviima atara aettee saeehenna venasaki.
+/home/datasets/sinhala/referenced/sin_2282_0404487808.wav|muhudu rala veegayen gal paravala gaeTii samsindii yayi.
+/home/datasets/sinhala/referenced/sin_2282_0434573169.wav|reegan darunu caritayak vuuyee piyaagee akarunaava nisaaya.
+/home/datasets/sinhala/referenced/sin_2282_0436920105.wav|adhikarana bhuumiyeedii pavaa pudgalayin aturudan karanavaa.
+/home/datasets/sinhala/referenced/sin_2282_0450101662.wav|mee film ekee innet eDii marfi.
+/home/datasets/sinhala/referenced/sin_2282_0602730201.wav|metaena utura haa dakuna venvana kaDaima haeTiyaTa saelakee.
+/home/datasets/sinhala/referenced/sin_2282_0729525242.wav|jaatika lotaraeyi manDalayee niiroogaa lotaraeyi aleviyen lada adaayamen jaatika vakugaDu aramudalaTa rupiyal kooTiyaka mudalak.
+/home/datasets/sinhala/referenced/sin_2282_0783035037.wav|kinniyaa pankulama pasukara mema unudiya ulpat veta pivisiya haeki vee.
+/home/datasets/sinhala/referenced/sin_2282_0807739690.wav|yana gaman poDi adahasakut oya pahalin daagena yanna.
+/home/datasets/sinhala/referenced/sin_2282_0837852035.wav|medaa paara polisiyen beerenna mee denna monavaa karayida.
+/home/datasets/sinhala/referenced/sin_2282_0941919114.wav|rusiyaanu janaadhipativarayaa raesva siTi janakaaya aematiiya.
+/home/datasets/sinhala/referenced/sin_2282_0945568681.wav|miiTa kalin hiTapu minissu meccara caaTar unee naee neva.
+/home/datasets/sinhala/referenced/sin_2282_1144218601.wav|mekii daruvaa tavat daruvan pirisak samanga sellam karamin.
+/home/datasets/sinhala/referenced/sin_2282_1170757756.wav|svalpa veelaavakin tamaa kuraam etaenaTa aavee.
+/home/datasets/sinhala/referenced/sin_2282_1190252972.wav|ekamutu vunot mee looke karanna baeri deyak naee.
+/home/datasets/sinhala/referenced/sin_2282_1306824157.wav|menna uu baraTa bara aDi tiya tiyaa ahasee haema taenama aevidinavaa.
+/home/datasets/sinhala/referenced/sin_2282_1322388247.wav|Tayigar vuDsTanam vividhatvaya eetaram nupurudu venna baee.
+/home/datasets/sinhala/referenced/sin_2282_1519089911.wav|kavurunda kiyalaa nam vasayen kiyanna puluvanda.
+/home/datasets/sinhala/referenced/sin_2282_1620917825.wav|maTa hituna aayet koocciya peraluna taenaTa yanna oona kiyala.
+/home/datasets/sinhala/referenced/sin_2282_1698850211.wav|mehidii naayakayaaTa kisiyam aramunak tibiya yutuya.
+/home/datasets/sinhala/referenced/sin_2282_1774969661.wav|meekiTa mokakdoo amutu amaaruvak tiyenava maraa gaena.
+/home/datasets/sinhala/referenced/sin_2282_1983652553.wav|meevaa simhala vikiyaTat mehemmama daannat puluvan vagee needa.
+/home/datasets/sinhala/referenced/sin_2282_2008311871.wav|metaenadii api sparsaya paavicci karannee avaboodhayak pinisayi.
+/home/datasets/sinhala/referenced/sin_2282_2354545027.wav|anee simhala kavruhari denavanam koccara hondayida.
+/home/datasets/sinhala/referenced/sin_2282_2381226010.wav|muhamaalee bamkar valaTa muulikavama daemme yaapanee aya.
+/home/datasets/sinhala/referenced/sin_2282_2476116377.wav|upaadhidhaarii vaeDasaTahana sambandhayenda tatvaya meyama vee.
+/home/datasets/sinhala/referenced/sin_2282_2528453855.wav|paemcaagee ammaagee karadara aDu vunaa.
+/home/datasets/sinhala/referenced/sin_2282_2554439777.wav|mulin ehema eevaa simhalaTa haerevvee detun denek.
+/home/datasets/sinhala/referenced/sin_2282_2674146933.wav|moohaya aayemat matuvelaa maava nomanga yavanna hadanavaa.
+/home/datasets/sinhala/referenced/sin_2282_2724831132.wav|tavat bohoo karunu raasiyak bauddha vamsa kataavaTa anuva pela gaesii tibiima viseesitaya.
+/home/datasets/sinhala/referenced/sin_2282_2844856713.wav|mema vaesi kaalaya tula kurulloo da kuuDuvalaTa vii siTiti.
+/home/datasets/sinhala/referenced/sin_2282_2885408035.wav|kaeema jaati daekala poDDak vitara keenti gihin vagee.
+/home/datasets/sinhala/referenced/sin_2282_2935984036.wav|igena gannaa karunut mahat utsaahayakin yutuva igena gannavaa.
+/home/datasets/sinhala/referenced/sin_2282_3224825662.wav|menna katandarakaarayaa gee samaaja seevayen bindak menna.
+/home/datasets/sinhala/referenced/sin_2282_3237323749.wav|apaacii yanu aemerikaavee nipadavana helikopTar vargayeki.
+/home/datasets/sinhala/referenced/sin_2282_3362587242.wav|devanuva sadahan kalee loovaeDa sagaraavee sadahan kaviyakya.
+/home/datasets/sinhala/referenced/sin_2282_3424249530.wav|aegee daees kandulen tet vii tibunada aee nohaenDuvaaya.
+/home/datasets/sinhala/referenced/sin_2282_3459567898.wav|mehidii rajugee kaaryabhaaraya salakaa baeliima vaedagat ya.
+/home/datasets/sinhala/referenced/sin_2282_3463443604.wav|saanta lusiyaa naegenahira kaerabiyan muhudee pihiTi duupat raTaki.
+/home/datasets/sinhala/referenced/sin_2282_3536851957.wav|akamaetten vunat taattaat meekaTa kaemati venavaa.
+/home/datasets/sinhala/referenced/sin_2282_3595923351.wav|eccara deeval bihi karanna daen vaTapiTaavak naehae.
+/home/datasets/sinhala/referenced/sin_2282_3781837298.wav|meekanam mama hitannee goDa denak balalaa naetuva aeti.
+/home/datasets/sinhala/referenced/sin_2282_3926337952.wav|mema paalama sandahaa vaeDa aarambha karamin sthaapita kala samaru phalakaya da aturudahanva tibee.
+/home/datasets/sinhala/referenced/sin_2282_4127755620.wav|pudgalika vasayen pudgalayaa samvardhanayaTa paemini.
+/home/datasets/sinhala/referenced/sin_2282_4358310193.wav|miiTar hayasiya tishatarak usin yutuva lookayee usama kuluna japaanayee idivemin pavatii.
+/home/datasets/sinhala/referenced/sin_2282_4427380654.wav|basaya yamkisi veegayakin gaman karana bava api danimu.
+/home/datasets/sinhala/referenced/sin_2282_4454251952.wav|mudalma neveyi jiivitee eyaTa vaDaa gaemburu arthayak tiyenavaa.
+/home/datasets/sinhala/referenced/sin_2282_4633549482.wav|indiyaava samaharaviTa sadaakaalika haturek vennat tibunaa.
+/home/datasets/sinhala/referenced/sin_2282_4825703159.wav|emenma japaanayen da mema vargayee nirmaana bihiviya.
+/home/datasets/sinhala/referenced/sin_2282_4855879268.wav|meya indiyaavee miyanmaar doraTuva namaeti sthaanayee pihiTaa aeta.
+/home/datasets/sinhala/referenced/sin_2282_4920765725.wav|mehen eka ekaage aha gatta vidiyaTa nam ohomaya.
+/home/datasets/sinhala/referenced/sin_2282_4974678151.wav|meccara kaalayak api venuven karapu kaepa kiriimaTa.
+/home/datasets/sinhala/referenced/sin_2282_4980926918.wav|umba duTugaemunu rajatumaaTa karapu apahaasayaTa vandi gevanna veyi.
+/home/datasets/sinhala/referenced/sin_2282_5037140247.wav|mee maDa vagurehi siTina taenaettaa maDehi ereyi.
+/home/datasets/sinhala/referenced/sin_2282_5119011309.wav|mehi ran ridiyen karana ganudenuvak naettee ya.
+/home/datasets/sinhala/referenced/sin_2282_5121117411.wav|miiTa pera rayigam ulaleediit mee caritayaTa tamayi hondama niliya vunee.
+/home/datasets/sinhala/referenced/sin_2282_5121271731.wav|atavaessoo ee veta etumangee aDuma kuDuma osavaagena giyaha.
+/home/datasets/sinhala/referenced/sin_2282_5182235306.wav|avamka deesapaalakayekuTa ituruvelaa innee meccarayi.
+/home/datasets/sinhala/referenced/sin_2282_5189595995.wav|mulu vaeliveeriya nagarayama sudu koDivalin sarasaa tibini.
+/home/datasets/sinhala/referenced/sin_2282_5452681774.wav|meenisaa ukusu uvaduraTa lak karagaeniima apahasu viya.
+/home/datasets/sinhala/referenced/sin_2282_5518973475.wav|mee nisaa sat purusayan lesa jiivat viima vaedagat ya.
+/home/datasets/sinhala/referenced/sin_2282_5580411108.wav|menna mee hakgeDiyee paehaeyaTa haerenavaa aeTa saekilla.
+/home/datasets/sinhala/referenced/sin_2282_5662352359.wav|mudalaali apiTa daannakoo ara biskaT paekaT dekakut.
+/home/datasets/sinhala/referenced/sin_2282_5667544811.wav|mihin lamkaa guvan seevayada meyaTa ayat guvan seevayaki.
+/home/datasets/sinhala/referenced/sin_2282_5771873256.wav|mekii giitayaTa ohu nam dii tibunee vamkagiriyaTa piTat viima lesini.
+/home/datasets/sinhala/referenced/sin_2282_5795826298.wav|mehidii viseesayen avadhaanayaTa gata yutu karunak veyi.
+/home/datasets/sinhala/referenced/sin_2282_5796582272.wav|saanta lusiyaa naegenahira kaerabiyan muhudee pihiTi duupat raTaki.
+/home/datasets/sinhala/referenced/sin_2282_5895470503.wav|ohu mahanuvara rajamahaa vihaaraya taenavuuyeeya.
+/home/datasets/sinhala/referenced/sin_2282_5964377708.wav|meekat vaeradunaa kiyalaa hitaddii kaTin unu lee piTavunaa.
+/home/datasets/sinhala/referenced/sin_2282_6192665313.wav|metek kal hiru udaava siduvunee samanala kandaTa tevarak namaskaara karamin.
+/home/datasets/sinhala/referenced/sin_2282_6220388906.wav|bayiskoop vasara pahee samvatsaraya venuven mama suba patanavaa.
+/home/datasets/sinhala/referenced/sin_2282_6220755573.wav|mesee ovuhu theeravaadi samgha ganayaTa piliganu laebuuha.
+/home/datasets/sinhala/referenced/sin_2282_6365641562.wav|ajaasat rajatumaagee aet seenaavee ati bhayaanaka aetek siTiyaa.
+/home/datasets/sinhala/referenced/sin_2282_6767204904.wav|metanadii loku haeDayak hiTinna loku baesmakaTa baTa daemmee.
+/home/datasets/sinhala/referenced/sin_2282_7107741318.wav|naegenahira desaTa galaa basina nayijar gamgaava aarambha vannee giniyaaveni.
+/home/datasets/sinhala/referenced/sin_2282_7306015716.wav|atipujaniiya kiribatgoDa knaanaananda svaamin vahanseeTa maagee namaskaaraya veevaa.
+/home/datasets/sinhala/referenced/sin_2282_7348929598.wav|mee boosataanan vahansee budu vuuvaaTa pasu dakinnaTa laebeeda.
+/home/datasets/sinhala/referenced/sin_2282_7854574177.wav|mema puhunuva hediyanTa dunnot eya venas veyi.
+/home/datasets/sinhala/referenced/sin_2282_7976731096.wav|mee buddha caritaya tula daknaTa aeti samaanaatmataavayi.
+/home/datasets/sinhala/referenced/sin_2282_8104820467.wav|mee vihaara itihaasaya anuraadhapura yugayee aarambhaya tek divayayi.
+/home/datasets/sinhala/referenced/sin_2282_8147362808.wav|aetta kataava simhalayoo kohenvat mehi paemina naeta.
+/home/datasets/sinhala/referenced/sin_2282_8205374665.wav|mee pilibanda apa buddhimat va kalpanaa kala yutu ya.
+/home/datasets/sinhala/referenced/sin_2282_8232889772.wav|okkoma hindi telingu filmsnee.
+/home/datasets/sinhala/referenced/sin_2282_8380884362.wav|mema dvitva ghaatanayee pariiksana kaTayutu mona aakaarayakada pavatinnee.
+/home/datasets/sinhala/referenced/sin_2282_8427486285.wav|polonnaruvee gal vihaarayee hindi pilimaya mevaennaki.
+/home/datasets/sinhala/referenced/sin_2282_8512832125.wav|mee vidihaTa ohugee jiivitaya panas pas avuruddak gevunaa.
+/home/datasets/sinhala/referenced/sin_2282_8643512444.wav|sampat baemkuvee aarambhaka mudala avama namut pavatvaagaeniimee vaarsika mudala ihala nisaa mul laabhaya in naetivii yanavaa.
+/home/datasets/sinhala/referenced/sin_2282_8726828333.wav|oya saelaD eka hadannakoo mama oyaaTa kiri eka hadanakan.
+/home/datasets/sinhala/referenced/sin_2282_8765322300.wav|meya kalakadii samasta kitunu lookayeema visisTatama deevasthaanaya viya.
+/home/datasets/sinhala/referenced/sin_2282_8785854951.wav|mema aemativarayaa tarunayeku novana atara vivaaha viimaTa yannee devaeni varaTayi.
+/home/datasets/sinhala/referenced/sin_2282_8894132403.wav|balannakoo mee mama liyapu komenT eka gaena maTama laejjayi.
+/home/datasets/sinhala/referenced/sin_2282_8920241225.wav|miigamuva roohalee siTa raagama roohalayaTa gena yana atara vaarayeedii aeya miya giyaaya.
+/home/datasets/sinhala/referenced/sin_2282_9020641694.wav|mun apiva andana ekee tavat piyavarak pamanayi ooka.
+/home/datasets/sinhala/referenced/sin_2282_9177027165.wav|aet rajaa aadara bhaktiyen yutuva tavat sivuraTa lam vunaa.
+/home/datasets/sinhala/referenced/sin_2282_9423337155.wav|dharmaya tulin raekavaranaya laebuu sita anna ee vageemayi.
+/home/datasets/sinhala/referenced/sin_2282_9790530699.wav|muslim simhala jaatiin degollanma naevata padimci kala yutuyi.
+/home/datasets/sinhala/referenced/sin_2282_9964014654.wav|meevaaTa bohoo viTa balaya sapayannee surya koosa mangin.
+/home/datasets/sinhala/referenced/sin_2282_9999357802.wav|mema nidahas aragalayehi naayakayan vuuyee vilbaavee saha kaeppeTipola disaaveeya.
+/home/datasets/sinhala/referenced/sin_3531_0217643271.wav|metana paeya kiiyak vagee gata karanna puluvan taenakda sahoo.
+/home/datasets/sinhala/referenced/sin_3531_0243441176.wav|galpara atara aevida yaamee dii paeegunahot maranaya siduvee.
+/home/datasets/sinhala/referenced/sin_3531_0427588271.wav|mema utsavaya vaeDiduraTat aematuu janaadhipativarayaa meseeda paevasiiya.
+/home/datasets/sinhala/referenced/sin_3531_0485817312.wav|bera vaadana kalaavaTa alutin ekvuu pirisda veti.
+/home/datasets/sinhala/referenced/sin_3531_0559614329.wav|meeke kataava divayanne taruna lamayin kiipadenek vaTaa.
+/home/datasets/sinhala/referenced/sin_3531_0636471621.wav|muva gahanaya daranna baeri gaanaTa enne naetuva paalanaya unaa.
+/home/datasets/sinhala/referenced/sin_3531_0691721431.wav|mema siddhaantaya anuva dukehi upata paknca upaadaanakkandhayee upatayi.
+/home/datasets/sinhala/referenced/sin_3531_0726449422.wav|meya nelaa aettee depayin siTagena siTina aakaarayaTaya.
+/home/datasets/sinhala/referenced/sin_3531_0777684888.wav|miiTa vaeDiya minissunTa hitanna tava kopamana deeval tiyenavaada.
+/home/datasets/sinhala/referenced/sin_3531_0795544600.wav|meeka lassana vageema goDak duka hitena kataavak ayiyaa.
+/home/datasets/sinhala/referenced/sin_3531_0931387094.wav|meevaa nositiya yutu nam sitiya yuttee monavaa gaena da.
+/home/datasets/sinhala/referenced/sin_3531_0949226064.wav|umba hadannee aasanik kataavat kanapiTa peralanna nee.
+/home/datasets/sinhala/referenced/sin_3531_0989331302.wav|eya janataa vimukti peramunaTa pamanak himi vuuvak novee.
+/home/datasets/sinhala/referenced/sin_3531_1151251583.wav|bera vaadanaya itaa siyumva haedaeeriya yutu kalaavaki.
+/home/datasets/sinhala/referenced/sin_3531_1154143520.wav|meeka mevara oskaa sammaanayaTa nirdeesa vecci ekak.
+/home/datasets/sinhala/referenced/sin_3531_1334120610.wav|aatar konan Doyil upata laebuvee skoTlantayee eDinbarg hidiiya.
+/home/datasets/sinhala/referenced/sin_3531_1443100646.wav|agee kaTahanDehi aviniscita bhaavayak gaeevii tibini.
+/home/datasets/sinhala/referenced/sin_3531_1508828251.wav|mema gaastu nirnaya kara tibennee mona padanaminda.
+/home/datasets/sinhala/referenced/sin_3531_1784797598.wav|aegee ekama aasaava vuuyee linkan dhavala mandirayaTa teerii patviimayi.
+/home/datasets/sinhala/referenced/sin_3531_1885894840.wav|antimeedii rajatumaaTa aemativaru dakina koTat vamaneTa aavaa.
+/home/datasets/sinhala/referenced/sin_3531_1922998178.wav|aayet itin digaTama ehenam upasiraesi demu needa.
+/home/datasets/sinhala/referenced/sin_3531_2144077783.wav|mee evan gaemiyekugee muvin piTa vuu vadan vaelaki.
+/home/datasets/sinhala/referenced/sin_3531_2144194787.wav|meccara deyak teerum ganna puluvannam mak koranna baeriya.
+/home/datasets/sinhala/referenced/sin_3531_2175710795.wav|mema silpiyaa pilibandava api mandak vimasaa balamu.
+/home/datasets/sinhala/referenced/sin_3531_2181483371.wav|mee vistaraya aesennekuTa aetivannee pahan samveegayaki.
+/home/datasets/sinhala/referenced/sin_3531_2191173783.wav|muunu pota tibunat naetat oya deeval venas vennee naehae.
+/home/datasets/sinhala/referenced/sin_3531_2288028081.wav|meevaa suvakiriimaTa kakaagee koDiyak elliya yutuya.
+/home/datasets/sinhala/referenced/sin_3531_2408005668.wav|umbaTa aemerikaavee puravaesibaavaya aran aemarikaanuvek venna puluvan.
+/home/datasets/sinhala/referenced/sin_3531_2447228604.wav|meeka taram hitaTa vaedunu venat kataavak naeti taram.
+/home/datasets/sinhala/referenced/sin_3531_2477991331.wav|mema dhurayaTa patvana himinamaTa siya jiivita kaalaya puraavaTa tanaturee vaeDa vaasaya kala haeka.
+/home/datasets/sinhala/referenced/sin_3531_3150557727.wav|metaena dii mam hitanne muulika va ma janataava daenuvat kala yutuyi.
+/home/datasets/sinhala/referenced/sin_3531_3167012021.wav|mema guvan anatura mulinma duTu ayek magee piyaa.
+/home/datasets/sinhala/referenced/sin_3531_3234625842.wav|ivara venavaa kiyala daenenakoTa poDi dukakut enavaa.
+/home/datasets/sinhala/referenced/sin_3531_3685262379.wav|ataramaediyaa tamayi ada eevaayet mila tiiranaya karannee.
+/home/datasets/sinhala/referenced/sin_3531_3793511646.wav|mema pota pansal pustakaalayeedii maeya kiyavaa tibenavaa.
+/home/datasets/sinhala/referenced/sin_3531_3844053013.wav|puurva deevataa yanuven haendinvennee demaapiyanya.
+/home/datasets/sinhala/referenced/sin_3531_3846552453.wav|inpasuva hikkaDuvaTa gos aettee miiTa dina gananakaTa peraya.
+/home/datasets/sinhala/referenced/sin_3531_3894490943.wav|muurtiya sadahaa sudusuma iriyavva mee yaeyi maTa sitee.
+/home/datasets/sinhala/referenced/sin_3531_4002426506.wav|menisaavenma vindina eka paettaka tiyalaa apiTa ikmaninma piTat venna vunaa.
+/home/datasets/sinhala/referenced/sin_3531_4128987616.wav|meeka obaTa aanaapaanasati bhaavanaava diyunu kiriimaTa loku rukulak venavaa.
+/home/datasets/sinhala/referenced/sin_3531_4176172013.wav|metana venneet ee vagee vaeDak kiyana ekayi mama kivvee.
+/home/datasets/sinhala/referenced/sin_3531_4221422564.wav|mee pilibandava oba vahanseegen karunu daena gaeniimaTa kaemaetiyi.
+/home/datasets/sinhala/referenced/sin_3531_4423884578.wav|meevaa karannaa handunvannee baalayaa hevat mooDayaa kiyaayi.
+/home/datasets/sinhala/referenced/sin_3531_4621341354.wav|aepal vitarak nevee api Del ekaTa kataa kalat ahanne plaeen tiyenavada kiyala.
+/home/datasets/sinhala/referenced/sin_3531_4688851321.wav|oncillaa toTili koyindoo dukaa harima apuuruyi.
+/home/datasets/sinhala/referenced/sin_3531_4738070831.wav|medaa paara tiyennee aelangee anaagataya venuven mituran karana vaeDak udesaa yana gamanak.
+/home/datasets/sinhala/referenced/sin_3531_4840614757.wav|ayislantaya uturu atlaantik saagarayee pihiTaa aeti raTaki.
+/home/datasets/sinhala/referenced/sin_3531_4841767212.wav|mees naetivena ekaTa mama nam karanne poDi deyak.
+/home/datasets/sinhala/referenced/sin_3531_4900163700.wav|sambudurajaanan vahanseelaa pas namak pahala vena kalpayayi.
+/home/datasets/sinhala/referenced/sin_3531_5342828989.wav|kandumudun samraksanaya kiriimee aramunin vagaakara tibenavaa.
+/home/datasets/sinhala/referenced/sin_3531_5374075357.wav|bulars paara daen bauddhaalooka maavata nam vuuyee ohu sihikiriimaTaya.
+/home/datasets/sinhala/referenced/sin_3531_5617324195.wav|ihata pasdenaagen kisivek maa paudgalikava handunannee naeta.
+/home/datasets/sinhala/referenced/sin_3531_5811240684.wav|muhudu raeli ataree mamkollakaruvoo saengavii siTiyaha.
+/home/datasets/sinhala/referenced/sin_3531_5904174509.wav|muhuna papuva baDa menma paada pilissii nomaeti bava vaartaa vee.
+/home/datasets/sinhala/referenced/sin_3531_6118792471.wav|am keliya sandahaa subha naekatin henakanda siTuvayi.
+/home/datasets/sinhala/referenced/sin_3531_6253386847.wav|metek kaalekaTa mama nam evaeni deyak kiyala naee.
+/home/datasets/sinhala/referenced/sin_3531_6434024151.wav|evakaTa ema paasalee guru maDulla haya denakuTa siimaa viya.
+/home/datasets/sinhala/referenced/sin_3531_6438246610.wav|baahirin igenagat daenuma piligat nisaa novee da.
+/home/datasets/sinhala/referenced/sin_3531_6487104375.wav|jaatika aganagaraya vanuyee jakartaa nuvarayi.
+/home/datasets/sinhala/referenced/sin_3531_6597045746.wav|muuna hariyaTama unmattakayekuge vagee velaa tibuna.
+/home/datasets/sinhala/referenced/sin_3531_6614296513.wav|menisaa demaapiyan daruvaaTa melova penvaadena aya vasayen saelakeyi.
+/home/datasets/sinhala/referenced/sin_3531_6681992600.wav|aaramciya laev ginnaksee sarasavi bim peta puraa paetira giyeeya.
+/home/datasets/sinhala/referenced/sin_3531_6709350944.wav|upul mahataa da janaadhipatitumaa idiriyee divurum dunneeya.
+/home/datasets/sinhala/referenced/sin_3531_7018445712.wav|ehi muulasthaanaya svisTarlantayee jinivaa nuvara pihiTaa aeta.
+/home/datasets/sinhala/referenced/sin_3531_7102684451.wav|meya asooka rajugee silaalipi valin da tahavuru vee.
+/home/datasets/sinhala/referenced/sin_3531_7179153359.wav|mama kavadaavat saemsan mahattayaa hamba venDa giyee naehae.
+/home/datasets/sinhala/referenced/sin_3531_7180438705.wav|mema pavuru sampuurnayenma sakasaa tibennee kabok gal upayoogii koTa gaeniimeni.
+/home/datasets/sinhala/referenced/sin_3531_7352893636.wav|meekaTa sab karapu ekaTa royiliTa saha guraaTa bohoma stutiyi.
+/home/datasets/sinhala/referenced/sin_3531_7392637158.wav|umba dannavada lamkaavee raja kaalee tibunu niiti gaena.
+/home/datasets/sinhala/referenced/sin_3531_7880142248.wav|mukhaya da mada vasayen dat penena lesa piyavii tibee.
+/home/datasets/sinhala/referenced/sin_3531_7925875570.wav|apee ii Dabliv adikaaram tuman gee sitivili pot kiya vuu maTa etuman anaagaami vuuveku kiyaa situni.
+/home/datasets/sinhala/referenced/sin_3531_7947843598.wav|darsanaya vana veb aDavi gananaavak videesavalin pavatvaa gena yanavaa.
+/home/datasets/sinhala/referenced/sin_3531_7984810771.wav|metaena indala tamayi kataava digahaerenna paTan ganne.
+/home/datasets/sinhala/referenced/sin_3531_8030145669.wav|yathaarthaya visin kalaakaruvaa meheyavaa ganu laebiima yi siddha venne.
+/home/datasets/sinhala/referenced/sin_3531_8123711214.wav|meya arahanta paramaarthaya lesa haendinviya haeki ya.
+/home/datasets/sinhala/referenced/sin_3531_8335397693.wav|metaena di mama adahas karanne simhala kaviin pilibandava.
+/home/datasets/sinhala/referenced/sin_3531_8500473878.wav|eka atakaTa baladdi api daenaTamat aasiyaave aascaryak velaa.
+/home/datasets/sinhala/referenced/sin_3531_8523195584.wav|gaallee koTuva aetulee tibunaa viiDiyoo senTar ekak.
+/home/datasets/sinhala/referenced/sin_3531_8564267184.wav|deesapaalana haa samaaja vaTapiTaavada salakaa baeliya yutuya.
+/home/datasets/sinhala/referenced/sin_3531_8571540826.wav|meeghavarna rajugee navavaeni varsayehi daaThaavamsaya liyana ladii.
+/home/datasets/sinhala/referenced/sin_3531_8595090596.wav|aenakonDaa yanu visaala gavayaku pavaa goduru kara gaeniimaTa samat sattvayeki.
+/home/datasets/sinhala/referenced/sin_3531_8657281490.wav|mama puvatpat piTa kavara chaayaaruupayakaTa penii hiTiyaa.
+/home/datasets/sinhala/referenced/sin_3531_8775492655.wav|mema kautukaagaaraya piTakooTTee haa aetulkooTTee nagara atara pihiTuvaa aeta.
+/home/datasets/sinhala/referenced/sin_3531_8991876040.wav|mema parataraya piyavaa denuyee piTaraTavalaTa gos vahal seevayee nirata vana pirisya.
+/home/datasets/sinhala/referenced/sin_3531_9086229255.wav|mema koTasa aettee kuDaa oyen etara vimaTa perayi.
+/home/datasets/sinhala/referenced/sin_3531_9192617433.wav|kaDupiTiyagee saebaeema nama buddhadaasa vitaanaaaracciya.
+/home/datasets/sinhala/referenced/sin_3531_9240173159.wav|mema nava basa nirmaanaya kiriimeedii ohuTa aeti abhiyoogaya samkiirna ekaki.
+/home/datasets/sinhala/referenced/sin_3531_9496088416.wav|muladii riya eka taenama tibunee helavennee vat naetuvayi.
+/home/datasets/sinhala/referenced/sin_3531_9497535654.wav|mesee daknaa vidasun nuvanama yahapat daekiima veyi.
+/home/datasets/sinhala/referenced/sin_3531_9569998346.wav|dumbara gaemiyaa kiyana paridi lakeegala raavanaa rajugee balakoTuvayi.
+/home/datasets/sinhala/referenced/sin_3531_9610307082.wav|akamaetten unat ee vacane paavicci karanna venavaa.
+/home/datasets/sinhala/referenced/sin_3531_9701025777.wav|simgappuuruvee mavunT elisabat roohalee siTa.
+/home/datasets/sinhala/referenced/sin_3531_9788609580.wav|meeke innava api danna hadunana kihipa denekma.
+/home/datasets/sinhala/referenced/sin_3531_9943120712.wav|mee bava siyalu vicaarakayin buddhimatun penvaa deti.
+/home/datasets/sinhala/referenced/sin_3531_9981559051.wav|mee lookavalaTa apiTa yaa haekkee sita diyunu kiriimenuyi.
+/home/datasets/sinhala/referenced/sin_3688_0056473094.wav|koTuven piTa nagaraya piTakoTuvayi.
+/home/datasets/sinhala/referenced/sin_3688_0096808080.wav|mema kiyaman tula aeti yathaarthaya vimasaa baeluva hot.
+/home/datasets/sinhala/referenced/sin_3688_0102202529.wav|aaye piTaraTin aava deyak nam kisima gaeTaluvak naehae.
+/home/datasets/sinhala/referenced/sin_3688_0127964130.wav|mee duka yaeyi hetema yathaabhuuta vasayen avaboodha karaganiyi.
+/home/datasets/sinhala/referenced/sin_3688_0347415167.wav|mema akusal siyalu pav yanuven sandahan kala haekiya.
+/home/datasets/sinhala/referenced/sin_3688_0452424024.wav|idiriyeedii visleesana kaTayutu aarambha kerenu aeta.
+/home/datasets/sinhala/referenced/sin_3688_0504658032.wav|mee lamayaa haema deyakma ikmanin ma igena gattaa.
+/home/datasets/sinhala/referenced/sin_3688_0550023064.wav|metaenadii haemooTama kivvaa upan gamee oru paedapu atiitaya.
+/home/datasets/sinhala/referenced/sin_3688_0606439117.wav|yathaarthavaadaya yanu vividha riitiin atarin ekak novee.
+/home/datasets/sinhala/referenced/sin_3688_0666789284.wav|gurutvaakarsana niyamaya vaeradi bavaTa saaksi tiyenavaa.
+/home/datasets/sinhala/referenced/sin_3688_0968916306.wav|kaeniyon viduli balaagaaraya pasugiya daa vasaa damaa aeta.
+/home/datasets/sinhala/referenced/sin_3688_1000099086.wav|melovat paralovat saepavat viimaTa da heetuvannaki.
+/home/datasets/sinhala/referenced/sin_3688_1065190155.wav|meyin rajatumaa ahasin vaeDi bava daena gattee ya.
+/home/datasets/sinhala/referenced/sin_3688_1272711337.wav|anaagatayat subavaadii veyi kiyalaa apaTa hitanna puluvan.
+/home/datasets/sinhala/referenced/sin_3688_1308003688.wav|ehi daknaTa laebena visituru vuu situvam nisaaya.
+/home/datasets/sinhala/referenced/sin_3688_1337725493.wav|kolonnaava ayat vanuyee vaellampiTiya polis vasamaTayi.
+/home/datasets/sinhala/referenced/sin_3688_1609561756.wav|minisaa ovun kiyannee meya mooTar rathayak novana bavayi.
+/home/datasets/sinhala/referenced/sin_3688_1612806051.wav|meevaa sampuurnayenma ven kara kara ven kara kara balanavaa.
+/home/datasets/sinhala/referenced/sin_3688_1623679904.wav|Tiyunis aganuvara pavaa viroodhataa utsanna vana viTa ben ali raTin palaa giyee ya.
+/home/datasets/sinhala/referenced/sin_3688_1694299574.wav|buundiya mahajanayaaTa monayam hoo idiri darsanayak idiripat karanavada.
+/home/datasets/sinhala/referenced/sin_3688_1929461291.wav|uvamanaa kenekuTa naaraaheenpiTa kirimanDala maavatee paaram paarika sahal alevi salen miladii gaeniimaTa haeka.
+/home/datasets/sinhala/referenced/sin_3688_1948484721.wav|aet paeTavaa siTa aettee nivasaTa yaabada kuDaa kuuDuvak vaeni sthaanayaka ya.
+/home/datasets/sinhala/referenced/sin_3688_2039776138.wav|aDi pahak hayak vitara aeetin pirimi lamayin kaTTiya vaTa velaa hiTiye.
+/home/datasets/sinhala/referenced/sin_3688_2081640982.wav|meevaa gooliiya dhanavaadayaTa kisiseetma vikalpayak novee.
+/home/datasets/sinhala/referenced/sin_3688_2310391955.wav|mema bhaaryaavan tidenaama budurajaanan vahanseegee igaenviim anuva yahapat aya novee.
+/home/datasets/sinhala/referenced/sin_3688_2397230679.wav|aasiyaavee mevaeni giTaarayak himi ekama vaadana silpiyaa mamayi.
+/home/datasets/sinhala/referenced/sin_3688_2413242041.wav|mun iDam alla ganna maara plaeen ekak dennee.
+/home/datasets/sinhala/referenced/sin_3688_2536453099.wav|ema aDuvat obaTa sapuraaliimaTa avasthaava laebevaayi patanavaa.
+/home/datasets/sinhala/referenced/sin_3688_2876065138.wav|siigiriya avaTa diya agal valin aavaranaya kara tibee.
+/home/datasets/sinhala/referenced/sin_3688_2941453008.wav|meeket giya paara ekee hiTapu nalu niliyoo goDakma innavaa.
+/home/datasets/sinhala/referenced/sin_3688_3107312173.wav|ektaraa mohotakadi eeka loku viplaviiya samgiitayak venavaa.
+/home/datasets/sinhala/referenced/sin_3688_3181295193.wav|ballangee ayitivaasikam tava kenek alevi karayi.
+/home/datasets/sinhala/referenced/sin_3688_3281041225.wav|mulin aegee viruddhataavaya tibunat kaalayaa samanga aeyava piligannavaa.
+/home/datasets/sinhala/referenced/sin_3688_3395968539.wav|pudgalayin siv denaku pamana paemina aetaeyi pariiksanavaladii heli vii aeta.
+/home/datasets/sinhala/referenced/sin_3688_3554729260.wav|metanaTa gihilla huratal karanna giyaanam mokada vennee.
+/home/datasets/sinhala/referenced/sin_3688_4004714525.wav|homkom atahaera venat raTakaTa gos aeti bava vaartaa vee.
+/home/datasets/sinhala/referenced/sin_3688_4040006888.wav|hitavat raviin vaeDi vistara daekvima pilibadava bohooma stutiyi.
+/home/datasets/sinhala/referenced/sin_3688_4050269744.wav|ohugee bhaaryaava niliyak haa looka ruu raejiniya vu ayisvaryaa raayi vee.
+/home/datasets/sinhala/referenced/sin_3688_4290681395.wav|metana idan balamu ada kathaavee mokada vennee kiyalaa.
+/home/datasets/sinhala/referenced/sin_3688_4349098655.wav|namut ee niitimaya raamuva magin karannee kumakda.
+/home/datasets/sinhala/referenced/sin_3688_4408727745.wav|mema siv mahaa oogha metera siTina pudgalayaa daknaTa haeki ya.
+/home/datasets/sinhala/referenced/sin_3688_4481217485.wav|akaaryaksamataava vaeDima viyadamakin bhaanDa nipadavayi.
+/home/datasets/sinhala/referenced/sin_3688_4486093953.wav|mekii siddhiya sidu vana dinaya parana avurudda lesa haendinvini.
+/home/datasets/sinhala/referenced/sin_3688_4608128553.wav|mema paalama idikaranavaa kiyana viTa vipaksayee samahara naayakayoo vihiluvak lesaTa saelakuvaa.
+/home/datasets/sinhala/referenced/sin_3688_4803245628.wav|meya gataanugatikava avicaaravatva karana vaeDak noveeda.
+/home/datasets/sinhala/referenced/sin_3688_4845332494.wav|mee sirit mee kaalayee apee raTee pirihemin pavatii.
+/home/datasets/sinhala/referenced/sin_3688_4978784926.wav|pauraanika vaedagatkamakin yutu mehi adaTat paeraeni naTabun daknaTa laebee.
+/home/datasets/sinhala/referenced/sin_3688_5112564604.wav|innet melban Tavumee indan goDak aeeta gamakalunee.
+/home/datasets/sinhala/referenced/sin_3688_5137075970.wav|ekkenek itin mama liyapu diniti kataave diniti.
+/home/datasets/sinhala/referenced/sin_3688_5156950254.wav|paurusatva vardhanaya kiriimee paaThamaalaa pavaa aarambha vunaa.
+/home/datasets/sinhala/referenced/sin_3688_5223568999.wav|dan diima pinisa at soodaagattu kenek venavaa.
+/home/datasets/sinhala/referenced/sin_3688_5629142851.wav|ranaviruvan visin paarak tanaa dii tibiima saebaeevaki.
+/home/datasets/sinhala/referenced/sin_3688_5675672193.wav|eka paettakin spiikar daala apiTa yanna epaa kiyanavaa.
+/home/datasets/sinhala/referenced/sin_3688_5792768206.wav|muladii hiTagena gaman kala haeki mee maga Tiken Tika kuDaa vana bavak penuni.
+/home/datasets/sinhala/referenced/sin_3688_5950315485.wav|meeken daen kisi kenekuTa aeti vaeDakut naehae.
+/home/datasets/sinhala/referenced/sin_3688_6010075566.wav|metana piyadaasa kiyannee taattaagee nama misak vaasagama nemeyinee.
+/home/datasets/sinhala/referenced/sin_3688_6049724568.wav|dehivala poliisiya magin mema naDuva pavaraa tibuni.
+/home/datasets/sinhala/referenced/sin_3688_6057604289.wav|menisaa akamaetten vuva mema titta beheta gata yutumaya.
+/home/datasets/sinhala/referenced/sin_3688_6107916017.wav|meekaTa saariputta maharahatan vahansee upamaavak vadaalaa.
+/home/datasets/sinhala/referenced/sin_3688_6194167990.wav|dharmasiri kuDuvalaTa sambandhayi kiyalaa mama daenagena hiTiyee naee.
+/home/datasets/sinhala/referenced/sin_3688_6195211802.wav|metaena panti tahanam karanna aravaa meevaa kisi deyak oona naee.
+/home/datasets/sinhala/referenced/sin_3688_6247651376.wav|mee kaaranaya ahapu saevaetnuvara vaasiin pudumayaTa patvunaa.
+/home/datasets/sinhala/referenced/sin_3688_6298695142.wav|mee karunuvalin obaTa manaava vaeTahennee kumak da.
+/home/datasets/sinhala/referenced/sin_3688_6359812202.wav|piTTaniyee geeTTuven aetulaTa aDiyak vat yanna laebennee naehae.
+/home/datasets/sinhala/referenced/sin_3688_6697527516.wav|muhana kaTa soodaa yali ohu bhaavanaavaTa avatiirna unaa.
+/home/datasets/sinhala/referenced/sin_3688_6899747372.wav|mema siisaeema nisaa siyalu dukkhayangen midunee vemi.
+/home/datasets/sinhala/referenced/sin_3688_6926065923.wav|mulinma kaemaraava issarahaTa yana velaavee nam poDi tigaesmak tibunaa.
+/home/datasets/sinhala/referenced/sin_3688_7041832968.wav|in mii maessan paeni ganiidaeyi kiyaanam nodanimi.
+/home/datasets/sinhala/referenced/sin_3688_7099734514.wav|aegee atinma magee hisee haa kammulee senT tavarayi.
+/home/datasets/sinhala/referenced/sin_3688_7131080884.wav|mema gupta lookaya harahaa yana viTa apagee avadhaanaya atisayinma tiiksana vee.
+/home/datasets/sinhala/referenced/sin_3688_7217876804.wav|met vaeDiimehi palamuvaeni aanisamsaya saepanindayi.
+/home/datasets/sinhala/referenced/sin_3688_7294344227.wav|mehi tibena vaDaatma pauraanika vaedagatkama vanuyee dahayiyaa pilimayi.
+/home/datasets/sinhala/referenced/sin_3688_7390248979.wav|meeka simhala bauddhayinTa liyala diipu raTak neveyi.
+/home/datasets/sinhala/referenced/sin_3688_7455360274.wav|api palaveni koTas dahaya gaena itaama saekavin matak karagammu.
+/home/datasets/sinhala/referenced/sin_3688_7584831034.wav|metaenadi muulika ma abhiyoogaya karunu slabaagaeniimee asiirukama.
+/home/datasets/sinhala/referenced/sin_3688_7614744824.wav|ebaevin sama ayitiin illaa saTan vaediima nisphalaya.
+/home/datasets/sinhala/referenced/sin_3688_7663917173.wav|kaalayak pemvatun velaa hiTiya rosaan pilapiTiya saha caturikaa piiris venvelaa.
+/home/datasets/sinhala/referenced/sin_3688_7750500436.wav|meevaa samaajayee tiyena kuhakakam valin aetikarana durvalakam.
+/home/datasets/sinhala/referenced/sin_3688_7804317720.wav|meekaTa sab daanna igana gattee vikiyaa sahoogee blog ekakin.
+/home/datasets/sinhala/referenced/sin_3688_7911743379.wav|mehi saerayaTiyee vuvamanaava kumak da yanna paehaediliya.
+/home/datasets/sinhala/referenced/sin_3688_7927489278.wav|kenek baDagoostaraya naeti veyi kiyalaa bayavelaa.
+/home/datasets/sinhala/referenced/sin_3688_7967787508.wav|itaama saehaelluuven kaalaya gata kiriimaTa haeki vanu aeta.
+/home/datasets/sinhala/referenced/sin_3688_8382914210.wav|mema sattvayaa yuroopiiya raTavala suratalayaTa aetikarana sateki.
+/home/datasets/sinhala/referenced/sin_3688_8479331000.wav|mee siyalla siduvannee anun kala deeval nisaama novee.
+/home/datasets/sinhala/referenced/sin_3688_8575476426.wav|miiTa vaeDa vaTinaa upades dunna minissu lamkaavee indalama naedda.
+/home/datasets/sinhala/referenced/sin_3688_8651232647.wav|meekaTa visandumak denna lamkaavaTa bhaaradennayi tibune.
+/home/datasets/sinhala/referenced/sin_3688_8656455359.wav|mudal ganudenuvaladii kalpanaakaari viya yutu vasara.
+/home/datasets/sinhala/referenced/sin_3688_8672561843.wav|itaama saelasum sahagatavayi gaehaenu minissu vaeDa karannee.
+/home/datasets/sinhala/referenced/sin_3688_8684102059.wav|akilagee appacci haerunu koTa anek haemooma hiTiyaa.
+/home/datasets/sinhala/referenced/sin_3688_8894467231.wav|menna aapahu matakaya alut kara ganna hindama baanavaa.
+/home/datasets/sinhala/referenced/sin_3688_8961468609.wav|mee tattvayaTa vaga kivayutu vannee da mavupiyanmaya.
+/home/datasets/sinhala/referenced/sin_3688_9010137617.wav|mee siyallaTama samsaara gamanaTa heetuvana akusala dharmaya.
+/home/datasets/sinhala/referenced/sin_3688_9041495812.wav|amaradeevalaa mahagamaseekaralaa indiyaanu deeval bhaavitaa karanna aeti.
+/home/datasets/sinhala/referenced/sin_3688_9584890759.wav|meeken daruvanTa raekavaranaya aDuvelaa tibenne.
+/home/datasets/sinhala/referenced/sin_3688_9721183432.wav|mee haemaekakma piTakoTuven aDu milakaTa ganna puluvan.
+/home/datasets/sinhala/referenced/sin_3976_0535813044.wav|meya paevaetvennee visnu deevaala bhuumiyehi ya.
+/home/datasets/sinhala/referenced/sin_3976_0704095453.wav|mun apava vihiluvakaTa gena aeti bava obaTa novaeTaheeda.
+/home/datasets/sinhala/referenced/sin_3976_0924265924.wav|mema muragal viseesayehi da varga dekak daknaTa laebee.
+/home/datasets/sinhala/referenced/sin_3976_1297535055.wav|eksat jaatiingee maha leekam baeen kii muungee da sahaaya iiTa himiviya.
+/home/datasets/sinhala/referenced/sin_3976_1445348599.wav|gaayakayek vidihaTa nam saeehena hondayi kiyanna puluvan.
+/home/datasets/sinhala/referenced/sin_3976_2530529078.wav|mukutma karaganna baeri kenek vitarayi daDeeTa ahu vennee.
+/home/datasets/sinhala/referenced/sin_3976_2555005995.wav|meccara kaalayak aapu aya oya poronduva dunnaa.
+/home/datasets/sinhala/referenced/sin_3976_2581661769.wav|lamnakaavee bihi vuu palamu aaraamaya anuraadhapura mahamevnaa uyanehi pihiTaa aeta.
+/home/datasets/sinhala/referenced/sin_3976_2772133735.wav|mudal tibunat honda potak ganna tiyena amaaruva.
+/home/datasets/sinhala/referenced/sin_3976_2939180659.wav|munge aees paaTa koDi valin vaeehila tiyenne.
+/home/datasets/sinhala/referenced/sin_3976_3619134479.wav|metaenadii mee dennaa atara amanaapaya vaeDi velaa tiyanavaa.
+/home/datasets/sinhala/referenced/sin_3976_3724457898.wav|mehi vartamaana aganuvara vanaahi rungun nuvarayi.
+/home/datasets/sinhala/referenced/sin_3976_3803828690.wav|meevaa asannee vicikiccaava aeti kiriima pinisayi.
+/home/datasets/sinhala/referenced/sin_3976_3877822097.wav|metana idalaa haemooTama baya hitena deeval valaTa tamayi muhuna denna venne.
+/home/datasets/sinhala/referenced/sin_3976_3903763157.wav|nataasaa naendaa apiTa lanuvakut kokkakut dunnaa.
+/home/datasets/sinhala/referenced/sin_3976_4165301672.wav|mulinma tiyenne kaantaavak paeharagannaa siduviimak.
+/home/datasets/sinhala/referenced/sin_3976_4339758274.wav|aeya kelinma devram vihaarayaTa yanna piTat vunaa.
+/home/datasets/sinhala/referenced/sin_3976_4590886696.wav|beeree vaeva ovungee nirmaanayaki.
+/home/datasets/sinhala/referenced/sin_3976_4593145288.wav|umaa oya ranTaembeeTa vaeTennee randenigalaTa pahalin.
+/home/datasets/sinhala/referenced/sin_3976_4697845592.wav|aacaarya gaaminii abeeseekara yanu jaatika itirikiriimee baemkuvahi hiTapu sabhaapati varayaayi.
+/home/datasets/sinhala/referenced/sin_3976_4740332434.wav|guugal kaees matakaya vaeDi kaalayak tiyennee naee.
+/home/datasets/sinhala/referenced/sin_3976_5364776841.wav|mema tee vatu yaaya desa balana viTa eya itaa hodin naDattu karana bavak penee.
+/home/datasets/sinhala/referenced/sin_3976_5373739370.wav|puujaava karana ataratureedii siva deviyangen tamaaTa karunaava daekviya yutu bava illiimak kala yutuya.
+/home/datasets/sinhala/referenced/sin_3976_6194067080.wav|mema vaTa daa geya maeda stuupayaka naTabun dis veyi.
+/home/datasets/sinhala/referenced/sin_3976_6549785506.wav|meyin apee lamaa parapuraTama siduvannee visaala ayahapatak.
+/home/datasets/sinhala/referenced/sin_3976_6925269802.wav|pot pattara atara gatavuna jiivitaya nam harima sundarayi.
+/home/datasets/sinhala/referenced/sin_3976_7833005294.wav|magee sitee ee sandahaa kisidu domnasak haTa gattee naehae.
+/home/datasets/sinhala/referenced/sin_3976_8492908399.wav|miidumen vaesii giya kandu kotmalee jalaasaya opavat kalaa.
+/home/datasets/sinhala/referenced/sin_3976_8838028505.wav|ee sambandhayen venama katikaavatak gena aa yutuyi.
+/home/datasets/sinhala/referenced/sin_3976_8912786700.wav|mee isurumuniyee pem yuvala yanu saaliya asookamaalaa yuvalayi.
+/home/datasets/sinhala/referenced/sin_3976_9136086771.wav|mahat utsaahayen apa harihamba karannee mudal ya.
+/home/datasets/sinhala/referenced/sin_3976_9253577248.wav|metaena dii viseesayen matak kalayutu kaaranayak da aeta.
+/home/datasets/sinhala/referenced/sin_3976_9391011329.wav|mulu jiivita kaaleTama hadapu ekama naekata tamayi oya pooruvee katandaree.
+/home/datasets/sinhala/referenced/sin_3976_9585284530.wav|miiTa vaDaa vaeDi pirisak siTina TenDar manDalada aeta.
+/home/datasets/sinhala/referenced/sin_3976_9826191398.wav|mema niiti viroodhii hooTalaya idikara aettee ema kalaapaya tulayi.
+/home/datasets/sinhala/referenced/sin_4191_0047452857.wav|aDu gananee ohu kopi kala caamara viirasimhaTa taram vat honda gaayana haekiyaavak ohuTa naehae.
+/home/datasets/sinhala/referenced/sin_4191_0126770633.wav|meevaayen iganagatta nam daem hiTam plaeena gahata haeki.
+/home/datasets/sinhala/referenced/sin_4191_0167362579.wav|aayet mee vagee gamanak ikmanin yanna laebeevaa kiyala patanavaa.
+/home/datasets/sinhala/referenced/sin_4191_0169818551.wav|in anaturuva ovun idiripat karannee adbhuuta toraturuya.
+/home/datasets/sinhala/referenced/sin_4191_0174096250.wav|mema diyakaDanaya idikiriimaTa palamuvaraTa vaeli bhaavitaa kaleeya.
+/home/datasets/sinhala/referenced/sin_4191_0205065623.wav|depaarsavayenma venna oonee yutukam Tikak tiyenavaa.
+/home/datasets/sinhala/referenced/sin_4191_0310903589.wav|meekaTa simhala ekatu kalaaTa bohoma stuutiyi samiira.
+/home/datasets/sinhala/referenced/sin_4191_0348767651.wav|metaena tamaa saaliya kumaraa asookamaalaa haa saengaevii jiivatvunee.
+/home/datasets/sinhala/referenced/sin_4191_0427110526.wav|meya apa adahana aagama dahama pilibada gaeTaluvak novee.
+/home/datasets/sinhala/referenced/sin_4191_0463593922.wav|meeka mulinma tiragata velaa tiyennee juuni maasayee.
+/home/datasets/sinhala/referenced/sin_4191_0497964451.wav|balamu meevagen kohomada api gaelavilaa innee kiyalaa.
+/home/datasets/sinhala/referenced/sin_4191_0606655204.wav|eka ispillak paapillak gaane Tayip karanna oona.
+/home/datasets/sinhala/referenced/sin_4191_0747146586.wav|muhudurala ghoosaavak vagee ee sookii svaraya doomkaara dunnaa.
+/home/datasets/sinhala/referenced/sin_4191_0775718660.wav|mahajana hitakaamiyeku see saelakena ohugee adahasak anuuva navalooka roohala idi karana ladii.
+/home/datasets/sinhala/referenced/sin_4191_0787987415.wav|mema dumriya enjima amganayee navataa tibuu dumriya peTTiya ehaa mehaa genayannaki.
+/home/datasets/sinhala/referenced/sin_4191_1097387953.wav|mulu yuroopayeema tamange basa vitarayi kataa karanne.
+/home/datasets/sinhala/referenced/sin_4191_1132318915.wav|muladi maTa eyaa gaena amutu aakarsanayak tibune naehae.
+/home/datasets/sinhala/referenced/sin_4191_1145258435.wav|muladii obee nirmaanaya apilivela vannaTa puluvani.
+/home/datasets/sinhala/referenced/sin_4191_1152540090.wav|aenjalin gunatilaka mahatmiyaTa mama vaeDihiTiyekuTa lesa garu karanavaa.
+/home/datasets/sinhala/referenced/sin_4191_1193820187.wav|muvin nobaena ivasaa siTinnaTa vuyee venat kisivak sidu kala nohaeki nisaaveni.
+/home/datasets/sinhala/referenced/sin_4191_1210332330.wav|aanDuvaTa nopenunaaTa janataavaTa eka daenenavaa teerenavaa.
+/home/datasets/sinhala/referenced/sin_4191_1215841989.wav|rattaran sereppu dekak paavicci karapu kenek.
+/home/datasets/sinhala/referenced/sin_4191_1431455372.wav|mulin eya visvaasa nokarana ohu pasuva aetivena siduviim nisaa eya visvaasa karayi.
+/home/datasets/sinhala/referenced/sin_4191_1459066810.wav|meekavat parissamin paavicci karanavanam tamayi honda.
+/home/datasets/sinhala/referenced/sin_4191_1905841988.wav|eTisalaaT paavicci karana miturekugenma tamayi ahanna venne.
+/home/datasets/sinhala/referenced/sin_4191_1906392263.wav|mema pinkamee muulika daayakatvaya basnaayaka nilameetumaaya.
+/home/datasets/sinhala/referenced/sin_4191_1985651127.wav|meeka bohoo denek ruupa peTTiyenut narambala aeti.
+/home/datasets/sinhala/referenced/sin_4191_2045175083.wav|metaen siTa pela gaesennee ovun samaga kala kataa bahaki.
+/home/datasets/sinhala/referenced/sin_4191_2209321723.wav|kolamba koTuvee caetam viidiya haa janaadhipati maavata asala handiyehi pihiTuvaa aeta.
+/home/datasets/sinhala/referenced/sin_4191_2481057238.wav|mulleegama vanaantaraya paetten ali aetunagee kumca naadaya aeseyi.
+/home/datasets/sinhala/referenced/sin_4191_2555709940.wav|itim pora seep ekee aehuvalu iiye raee mokada unee kiyalaa.
+/home/datasets/sinhala/referenced/sin_4191_2617746262.wav|in anaturuva aettee bauddhayaagee atpota bandu vuu dhammapadaya yi.
+/home/datasets/sinhala/referenced/sin_4191_2746776983.wav|namut avasaanayee maahaTa eya avasaanayak kiriimaTa nohaeki viya.
+/home/datasets/sinhala/referenced/sin_4191_2813652272.wav|mee heetu dakvamin apagee aDupaaDu saadhaarana karanavaa.
+/home/datasets/sinhala/referenced/sin_4191_3032895838.wav|labaagata haeki ihalama maanasika tattvaya vannee da meyayi.
+/home/datasets/sinhala/referenced/sin_4191_3041932374.wav|vayasa avurudu dahaaTee dii pamana ohu aetaens hi paevati plooToogee aekaDamiyee igenuma paTan ganiyi.
+/home/datasets/sinhala/referenced/sin_4191_3139393731.wav|mul avasthaaveedii vaeDi kalabalayak nomaetiva niiti sammata kara gannavaa.
+/home/datasets/sinhala/referenced/sin_4191_3243830308.wav|metaninut ehaaTa kivvot balanna deyak naeti venavanee.
+/home/datasets/sinhala/referenced/sin_4191_3330161526.wav|mema aeti toraturu visavaasa kiiriimaTa pavaa apahasuya.
+/home/datasets/sinhala/referenced/sin_4191_3511933207.wav|mema vihaarasthaanaya duTugaemunu yugaya tek itihaasaya karaa diveyi.
+/home/datasets/sinhala/referenced/sin_4191_3765051714.wav|mulin magee katandara kiyavaa daen nokiyavana ayat innavaa aeti.
+/home/datasets/sinhala/referenced/sin_4191_3801091255.wav|egollo eevelaave gedara Tiivii bala balaa idala tiyenne.
+/home/datasets/sinhala/referenced/sin_4191_4280364884.wav|mee anuva buduvarun devargayak gaena karunu tibee.
+/home/datasets/sinhala/referenced/sin_4191_4449174786.wav|muhunupoten da meya bedaa hadaa gannaa bava daekkaa.
+/home/datasets/sinhala/referenced/sin_4191_4452123853.wav|apee booDimee hiTapu yaaluvekut ee gaejaT eka iibee eken ooDar kalaa.
+/home/datasets/sinhala/referenced/sin_4191_4500918363.wav|mobayil kaneksan gaena kiyaddi mehema deyak maTa vunaa.
+/home/datasets/sinhala/referenced/sin_4191_4651330355.wav|meccara kal velaavak naetuva tibbee mee kataava balanna.
+/home/datasets/sinhala/referenced/sin_4191_4735509282.wav|ganudenuva ikmanin pahasuven haa aaraksaakaariiva sidukerunaa.
+/home/datasets/sinhala/referenced/sin_4191_4911425062.wav|miiTa vasarakaTa dekakaTa kalin metana siTiyee alin detun denaku pamani.
+/home/datasets/sinhala/referenced/sin_4191_4937857846.wav|ayiyaa kenekuyi namgi kenekuyi himee gihim tiyanavaa.
+/home/datasets/sinhala/referenced/sin_4191_4990986543.wav|andinnee pennanna nam baeluvaTa vaeraeddak naeenee.
+/home/datasets/sinhala/referenced/sin_4191_5178909305.wav|meeka tamayi obatumaaTa denna tibena saralama uttaraya.
+/home/datasets/sinhala/referenced/sin_4191_5194761742.wav|meeke sattu balaakiyaa ganna kollekuyi kellekuyi innavaa.
+/home/datasets/sinhala/referenced/sin_4191_5270106644.wav|dhaatuun vahanseelaa taenpat koTa aeti karanDuva gillee ya.
+/home/datasets/sinhala/referenced/sin_4191_5448058974.wav|eeka tamayi oya maesin unu kaevum vagee vikinennee.
+/home/datasets/sinhala/referenced/sin_4191_5540698884.wav|mee haaniyaTa erehiva naengii aa jana viroodhaya ketaram da.
+/home/datasets/sinhala/referenced/sin_4191_5663442206.wav|apee pumci sit mesee ehaaTa mehoTa gaman nokarayi.
+/home/datasets/sinhala/referenced/sin_4191_5673910593.wav|mona reeTim da vil smit innavanam eccarayi.
+/home/datasets/sinhala/referenced/sin_4191_5742734946.wav|paerani sen pansal dekaka lamaa sisun dedenek viya.
+/home/datasets/sinhala/referenced/sin_4191_5850200247.wav|antima koTasat ehenam ikmanaTa laebeyi kiyalaa hitanavaa.
+/home/datasets/sinhala/referenced/sin_4191_6121428367.wav|beljiyama haa nedarlanta deesasiimaavee avan halaki.
+/home/datasets/sinhala/referenced/sin_4191_6183767482.wav|mema gilanpasa puujaavan bhaaragat pinvatunda siTii.
+/home/datasets/sinhala/referenced/sin_4191_6211084298.wav|guruvarayakugen samgiitaya igenagaeniimaTa avasthaava laebennee kohomada.
+/home/datasets/sinhala/referenced/sin_4191_6256610560.wav|carita goDak ekka hena pissu tibuna kaaTun siiriis ekak.
+/home/datasets/sinhala/referenced/sin_4191_6272319092.wav|dhanaatmaka cintanaya pubuduvaalamin haravat rasavat lipi.
+/home/datasets/sinhala/referenced/sin_4191_6385716966.wav|metaena marana daenviim daana eka gaena neveyi kataava.
+/home/datasets/sinhala/referenced/sin_4191_6622838331.wav|meeka deesapaalanika maanasika roogiin pirisakagee tiinduvak.
+/home/datasets/sinhala/referenced/sin_4191_6631088849.wav|antarjaatika bihiri taranga mulin ma aarambha vuyee paeriisiyeediiya.
+/home/datasets/sinhala/referenced/sin_4191_6831900813.wav|un eka paaraTama nivan nodakina bavanam maTa visvaasayi.
+/home/datasets/sinhala/referenced/sin_4191_6884104471.wav|ehet mee vanaviTa mema guvantoTupola bhaavita karannee flayi Dubaayi guvan seevayaTa ayat ek yaanayak pamani.
+/home/datasets/sinhala/referenced/sin_4191_6888322321.wav|aDuma tarame iTi kolayak hari daala kaTa baendaganna oone.
+/home/datasets/sinhala/referenced/sin_4191_6956602368.wav|mema aparaadhayee viseesatvaya vuuyee mee barapatala aparaadhaya kaantaavak atin siduviimaya.
+/home/datasets/sinhala/referenced/sin_4191_7036331207.wav|burumayee raemgun nuvarada kanda kumaru vandaniiya mahaa deevaalayaki.
+/home/datasets/sinhala/referenced/sin_4191_7236977312.wav|mema piligaenuma tulin iiTa api siyallooma muhuna diya yutumaya.
+/home/datasets/sinhala/referenced/sin_4191_7529260011.wav|alut paara giyat parana paara dekama yanne ekama taenaTa.
+/home/datasets/sinhala/referenced/sin_4191_7576517851.wav|iDa laebena vidiyaTa kalaa kaTayutuvalaTat daayaka venavaa.
+/home/datasets/sinhala/referenced/sin_4191_7593401073.wav|amka ganitaya ugaenviimaTa yana ohuTa viija ganitaya vaeradii aeta.
+/home/datasets/sinhala/referenced/sin_4191_7801880519.wav|mee mee dharmayoo svarga mooksa dekaTa heetu veyi.
+/home/datasets/sinhala/referenced/sin_4191_8169950827.wav|meekaa daDayam hoyaagena ena ataree lindaTa vaeTenna aeti.
+/home/datasets/sinhala/referenced/sin_4191_8171191899.wav|mudalaaligee pandama pasupasa jinadaasa mahataa Tika durak aveeya.
+/home/datasets/sinhala/referenced/sin_4191_8189115761.wav|budurajaanan vahansee vaeDasiTiyet rajagaha nuvaramayi.
+/home/datasets/sinhala/referenced/sin_4191_8191737363.wav|invaeDi pirisak jiivatvannee aasiyaanu kalaapayee.
+/home/datasets/sinhala/referenced/sin_4191_8268722814.wav|menna mee pasvelaa yana svabhaavayaTa ayiti dee oba tula tiyenavaa.
+/home/datasets/sinhala/referenced/sin_4191_8578172520.wav|meeket hiTiye hurupurudu supiri naluvek tamayi.
+/home/datasets/sinhala/referenced/sin_4191_8588687224.wav|antar jaalayaTa rahas liyaviilla mudaa haeriye kavurunda.
+/home/datasets/sinhala/referenced/sin_4191_8641833511.wav|menna meevaa tamayi diyunu vena sitaka aetivena laksana.
+/home/datasets/sinhala/referenced/sin_4191_8868125608.wav|mul kaale nam ninda gihillat hitila tibuna.
+/home/datasets/sinhala/referenced/sin_4191_8951650920.wav|gasa uDa ratu paehaeti boolaya nivi nivii pattu veyi.
+/home/datasets/sinhala/referenced/sin_4191_9000314783.wav|mema jiiviin gaman gannaa yaanaavala visaalatvaya pudumaya danavana kataavak.
+/home/datasets/sinhala/referenced/sin_4191_9083362090.wav|mee lookayee devivaru minissu haemooma saepayaTa kaematiyi.
+/home/datasets/sinhala/referenced/sin_4191_9109171944.wav|mee anuva sammaa diTThikayoo varga tunak innavaa.
+/home/datasets/sinhala/referenced/sin_4191_9226752254.wav|amarasiri mahataagee meheyaviimen pariiksana sidu keree.
+/home/datasets/sinhala/referenced/sin_4191_9251059993.wav|guna saemaruma venuven pinkam maalaavak paevaetvini.
+/home/datasets/sinhala/referenced/sin_4191_9301440587.wav|munivarayaat gamee haesiriya yuttee ee vidihaTayi.
+/home/datasets/sinhala/referenced/sin_4191_9532114718.wav|mooDigee maapiyoo baTahira gujaraaTayee aDu kulayakaTa ayat vuuvooya.
+/home/datasets/sinhala/referenced/sin_4191_9563817088.wav|nodaenna vacana vala teerum hoyannee kii denaava da.
+/home/datasets/sinhala/referenced/sin_4191_9782933972.wav|mema podu samkalpaya randaa pavatinnee kumak mata da.
+/home/datasets/sinhala/referenced/sin_4191_9881914233.wav|mulu jiivitee ma aetaem aya kaepa karannee ruupaya venuven.
+/home/datasets/sinhala/referenced/sin_4191_9896411852.wav|mee amgaya da siila koTasaTama ayatvana bava saelakiya yutu ya.
+/home/datasets/sinhala/referenced/sin_4499_0114430080.wav|siyaluu maarga jiip vaeen bas ratha dhaavanayaTa sudusu tattvayen pavatii.
+/home/datasets/sinhala/referenced/sin_4499_0131237329.wav|mooDayoo kaTa aeriyaama tavat laksa gananakagee jiivita anaturee.
+/home/datasets/sinhala/referenced/sin_4499_0169754617.wav|haebaeyi kukul koTuva baara diilaa tiyennee naTinTa.
+/home/datasets/sinhala/referenced/sin_4499_0370270269.wav|mokakda yakoo vikTar ratnaayakagee lookeTa parakaasee kiyannee.
+/home/datasets/sinhala/referenced/sin_4499_0404038733.wav|miiTa amatarava handagamagee sinamaatmaka bhaasaavaTa hasuvana gaehaeniyak siTii.
+/home/datasets/sinhala/referenced/sin_4499_0489636757.wav|ruuDi mohuTa Doriyan kiyana sahayakayaava handunvalaa denavaa.
+/home/datasets/sinhala/referenced/sin_4499_0662656844.wav|haebaeyi kohoma hari sanniveedanaya teerum ganna puluvan unaa.
+/home/datasets/sinhala/referenced/sin_4499_0738942917.wav|stuti mee deeval apiTa mee aakaarayaTa labaa denavaTa.
+/home/datasets/sinhala/referenced/sin_4499_0793705773.wav|miiTa amatarava ruhunu samcaaraka kaaryamsaya magin samvidhaanaya kala ruhunupura.
+/home/datasets/sinhala/referenced/sin_4499_0827187887.wav|yahapat naayakayek viimaTa meya vaTinaama heetuvak vee.
+/home/datasets/sinhala/referenced/sin_4499_0969920331.wav|paevidda nam vuu hudekalaa vuu gaemburu tiiranaya udesaa mavupiya aasirvaadaya laebennee itaamat kalaaturakini.
+/home/datasets/sinhala/referenced/sin_4499_1340106692.wav|situvam pilibandava vacanayen maevuu tavat sittamaki.
+/home/datasets/sinhala/referenced/sin_4499_1394382437.wav|lookaya tatu paridden daknaa hetema akampaa da veyi.
+/home/datasets/sinhala/referenced/sin_4499_1605766632.wav|svabhaavika galak yodaagena mahindaagamanayada nimavaa tibee.
+/home/datasets/sinhala/referenced/sin_4499_1635215896.wav|raTee puravaesiyan raekiyaa kala yuttee meraTa misak araabiyee novee.
+/home/datasets/sinhala/referenced/sin_4499_1908274099.wav|sarvabaladhaarii deviyan yaTapat kiriimaTa utsaahayak gata yutu naeta.
+/home/datasets/sinhala/referenced/sin_4499_1936250319.wav|mokada kakaa ada pattaraya gaena sadahanak karala tibba nisaa.
+/home/datasets/sinhala/referenced/sin_4499_2027574817.wav|mokada mee vagee ayiyek tamaa namgiyekTa inna oonee.
+/home/datasets/sinhala/referenced/sin_4499_2091699786.wav|mokada ovunTa ovunvama epaavana dinayak langadiima enu aeta.
+/home/datasets/sinhala/referenced/sin_4499_2251050505.wav|raeskiriim balaaporottu aDu kala haeki vannee ya.
+/home/datasets/sinhala/referenced/sin_4499_2261530981.wav|saeptaembar mula indan digaTama denna puluvan.
+/home/datasets/sinhala/referenced/sin_4499_2359609884.wav|molayen paTan gena horenma manasaTa rimgaagena avasan karayi.
+/home/datasets/sinhala/referenced/sin_4499_2570397926.wav|mokada ohugee samgiitayee naehae kisima indiyaanu samgiitayak.
+/home/datasets/sinhala/referenced/sin_4499_2573992768.wav|sTiivan spilbarg gee nam itin ahanna deyak nae.
+/home/datasets/sinhala/referenced/sin_4499_2587568002.wav|yanna kalin oyaalagee adahas pahalin liyaa yanna.
+/home/datasets/sinhala/referenced/sin_4499_2591708145.wav|rabar kiri eka maha visaala baelumak vagee pimbenTa paTan gattaa.
+/home/datasets/sinhala/referenced/sin_4499_2634715980.wav|haebaeyi mee kollaa tamilnaaDuvee demala kollek.
+/home/datasets/sinhala/referenced/sin_4499_2693792562.wav|mona heetuvakaTavat eka satekTa viseesaka dakvanDa baehae.
+/home/datasets/sinhala/referenced/sin_4499_2763284720.wav|ohu jiivat vunee paalampuur hi tibuu daevaenta mandirayakayi.
+/home/datasets/sinhala/referenced/sin_4499_2841235684.wav|raekiyaa kaTayutu yahapat lesa karagena yaamaTa haekivee.
+/home/datasets/sinhala/referenced/sin_4499_3200468726.wav|raekiiraksaa sambandhayen subhavaadii tattvayak pennum karayi.
+/home/datasets/sinhala/referenced/sin_4499_3417180693.wav|sTaenis kiyanne aettaTama bohoma niitigaruka kenek.
+/home/datasets/sinhala/referenced/sin_4499_3418113093.wav|salman khaange film ekak nam ataarinne naee.
+/home/datasets/sinhala/referenced/sin_4499_4370914307.wav|mooTar rathayee siTi pirisa dehivala siTa yaapanaya dakvaa gaman karamin siTa aeta.
+/home/datasets/sinhala/referenced/sin_4499_4495232516.wav|haebaeyi visa kiyala nekTo ehema biila pennayi.
+/home/datasets/sinhala/referenced/sin_4499_4512522063.wav|sikuraadaada tavat katandarayak balaaporottu vanna.
+/home/datasets/sinhala/referenced/sin_4499_4574402939.wav|mohu pilibandava net magin helidarav kala haeTi pahatin daekvee.
+/home/datasets/sinhala/referenced/sin_4499_4645217423.wav|saranapaala mee bimgee aetule tundenekuTa nidaa ganna puluvanda.
+/home/datasets/sinhala/referenced/sin_4499_4694621905.wav|rajjuruvoo ikmanin viithi samcaaraya avasan kalaa.
+/home/datasets/sinhala/referenced/sin_4499_4827208401.wav|haema vacanayakma siyayaTa siyayak parivarthanaya karanna baehae.
+/home/datasets/sinhala/referenced/sin_4499_4838985833.wav|yaanaava toraturu evanne kaemaraavalin gattuvaa nemeyida.
+/home/datasets/sinhala/referenced/sin_4499_4851077487.wav|yasoodaraa deeviyangee vaeDimahal sahoodarayaa vunee deevadatta.
+/home/datasets/sinhala/referenced/sin_4499_4934980840.wav|yana gaman maga gaenat poDDak kiyanna puluvanda.
+/home/datasets/sinhala/referenced/sin_4499_5258086233.wav|stutiyi onna itin haemadaamat mama antimayaa.
+/home/datasets/sinhala/referenced/sin_4499_5267517726.wav|yaapanayee rajayee aayatanavala demala parivartana sahita booD laeeli aeta.
+/home/datasets/sinhala/referenced/sin_4499_5491065672.wav|mokada tavamat ovun yuddhayen piiDaa vinda vinda indalaa gaelavunaa vitarane.
+/home/datasets/sinhala/referenced/sin_4499_5649909465.wav|haalmessek vat kanna puluvanda maara ganan nee.
+/home/datasets/sinhala/referenced/sin_4499_5730239991.wav|simhalayee vaeDima varada karannee akuru liviimee diiya.
+/home/datasets/sinhala/referenced/sin_4499_5782295617.wav|saaksiyak notabaama nisaanta maru vaelanda gatteeya.
+/home/datasets/sinhala/referenced/sin_4499_5782661921.wav|lookayee vaasanaavantama pudgalayaa rajatumaa bava aeya situvaa ya.
+/home/datasets/sinhala/referenced/sin_4499_5855400764.wav|raTa muhuna dii siTina arbudayee tarama itaa paehaedili vee.
+/home/datasets/sinhala/referenced/sin_4499_6091340100.wav|ranabima maerena udaviyage kaeelit naee samahara velaavaTa.
+/home/datasets/sinhala/referenced/sin_4499_6172225788.wav|skoT saha aelisan iskoole inne naetiva yanavaa.
+/home/datasets/sinhala/referenced/sin_4499_6196191419.wav|mokada jiip rathayakin pahasuvenma ee dura yanna puluvan veyi.
+/home/datasets/sinhala/referenced/sin_4499_6360196746.wav|paaramparika deeval raekaganna samaharun samiti hadalaa tibenavaa.
+/home/datasets/sinhala/referenced/sin_4499_6421486096.wav|mokada mee raTee evaeni mileeccha danDuvam denne nae.
+/home/datasets/sinhala/referenced/sin_4499_6583661752.wav|yaaluvaa ara ipaerani puduma hata gaenat lipiyak liyamu needa.
+/home/datasets/sinhala/referenced/sin_4499_6596589045.wav|havaayi duupatee puunaalu verala tiiraya disvannee kalu paehaeyeni.
+/home/datasets/sinhala/referenced/sin_4499_6612127123.wav|mokada mama mulinma niveedakayek vidiyaTa vaeDa kalaa.
+/home/datasets/sinhala/referenced/sin_4499_6630767315.wav|looka janataava aarthika arbudayakaTa patva siTina avasthaavaki mee.
+/home/datasets/sinhala/referenced/sin_4499_6634420867.wav|mooTar sayikal himiyanTa epamana visaala mudalak vaeya karanna baehae.
+/home/datasets/sinhala/referenced/sin_4499_6700379826.wav|safrayi mamayi aa giya taen pavaa mama tusaariTa pennuvaa.
+/home/datasets/sinhala/referenced/sin_4499_6711432594.wav|mokaTada oya puhunuva paTan gattee unTika daenuvatva nee.
+/home/datasets/sinhala/referenced/sin_4499_6764052784.wav|halaal sahatikaya sahita kukul mas pamanak nipadavana aayatanayak.
+/home/datasets/sinhala/referenced/sin_4499_6954911714.wav|samastha paddhatiyaTa nosituu haaniyak venna puluvan.
+/home/datasets/sinhala/referenced/sin_4499_6964954489.wav|mokada ohuTa kaemati kisima niladhaariyek naeti nisaa.
+/home/datasets/sinhala/referenced/sin_4499_6967780888.wav|hariyaTa magulgedaraka devana manamaaliyek innavaa vagee.
+/home/datasets/sinhala/referenced/sin_4499_6975806565.wav|mohu diya yaTin gindara genayana aakaarayee pudgalayeki.
+/home/datasets/sinhala/referenced/sin_4499_7010974800.wav|haebaeyi mee kalukum dennaa depilaka dennek.
+/home/datasets/sinhala/referenced/sin_4499_7224132879.wav|sahalvala suvanda raedii aettee ema sahal viseesayaTa aaveenika paridiya.
+/home/datasets/sinhala/referenced/sin_4499_7244966660.wav|samahara kannavala nispaadanaya aeti vunaaTa tavat samahara kanna vala nispaadanaya naehae.
+/home/datasets/sinhala/referenced/sin_4499_7252566084.wav|yaaknaa kiriimat ovun dedenaagee igaenviim valaTa anuva kerennaki.
+/home/datasets/sinhala/referenced/sin_4499_7572839883.wav|raejina vaTaa eekaraasiviima miimaessangee svabhaavayak nisaa.
+/home/datasets/sinhala/referenced/sin_4499_7578494831.wav|haalpaaruvaa yanu vel vidaaneegee sahakaruvek venna oonaee.
+/home/datasets/sinhala/referenced/sin_4499_7671384662.wav|ek dahas navasiya asuu hatee pebaravaari hatara kavadda.
+/home/datasets/sinhala/referenced/sin_4499_7694589002.wav|haema jiiviyekuTama jiivat viimaTa ayitiyak tiyenavaa.
+/home/datasets/sinhala/referenced/sin_4499_7694593009.wav|miiTa amatarava mee iimeel evannaa gee vistarayakda ee iimeel ekee tibiya yutuya.
+/home/datasets/sinhala/referenced/sin_4499_7725344030.wav|mokada eyaava magee amma taattaa taramaTa visvaasa kalaa eekayi.
+/home/datasets/sinhala/referenced/sin_4499_8011781797.wav|ramcuven piTastara pavulak nam un siTinnee venamaya.
+/home/datasets/sinhala/referenced/sin_4499_8034784743.wav|ratnapura maha saman deevaalayee sidu kerena puda puujaa.
+/home/datasets/sinhala/referenced/sin_4499_8058843174.wav|pukkusayeni ee purusayaa haTa mee adahasa aetivuuyee ya.
+/home/datasets/sinhala/referenced/sin_4499_8096973847.wav|sayiman samsaaraya ohee tibunaavee kiyalaa innee naee.
+/home/datasets/sinhala/referenced/sin_4499_8569371476.wav|raaksaa kiyalaa kivvee edaa raTa aaraksaa karapu ayaTa.
+/home/datasets/sinhala/referenced/sin_4499_8627105999.wav|lookaya varadavaa dakvana penvana paaTa kannaaDiyak vaeni ya.
+/home/datasets/sinhala/referenced/sin_4499_8751799377.wav|vaaDivelaa indaeddii vaaDivelaa innavaa kiyala daenagannavaa.
+/home/datasets/sinhala/referenced/sin_4499_8770635976.wav|pudgala siksanayaTa unvahansee labaadun avavaadaya mahatya.
+/home/datasets/sinhala/referenced/sin_4499_8843016891.wav|mokada ohu potee sandahan caritayaTa vaDaa bohoma vaeDimahalu kenek.
+/home/datasets/sinhala/referenced/sin_4499_9456062405.wav|haebaeyi oyaava ee anduren galavaaganna vidiyat mama dannavaa.
+/home/datasets/sinhala/referenced/sin_4499_9534933205.wav|lookavaasii bauddhayaa vividha vuu aakaarayen pavatvanu laebee.
+/home/datasets/sinhala/referenced/sin_4499_9584059479.wav|mokakda mee nilmini gaena kiyaevena alut aaramciya.
+/home/datasets/sinhala/referenced/sin_4499_9616567575.wav|saemaTa saeemaviTama viduliya daen yathaarthayak velaa.
+/home/datasets/sinhala/referenced/sin_4499_9932549238.wav|sahajiivanaya saha sahayoogaya kiyalat meekaTa kiyanna puluvan.
+/home/datasets/sinhala/referenced/sin_4499_9989112491.wav|yaapanee beekari karapu ayagee paramparaava aapahu ennee naee.
+/home/datasets/sinhala/referenced/sin_5681_0174883328.wav|mema puvata aesu mohoteema mema nivasa baelimaTa ovuhu giyaha.
+/home/datasets/sinhala/referenced/sin_5681_0286367855.wav|mema sthaanaya girihanDu naemaeti sthaanayak bava puujaavaliyee paevasee.
+/home/datasets/sinhala/referenced/sin_5681_0356985620.wav|yaksayaagee kuriru napuru adahasda mema samvaadayee gaebva tibee.
+/home/datasets/sinhala/referenced/sin_5681_0579348221.wav|khanija tel sampat samvardhana aemaeti duminda disaanaayaka.
+/home/datasets/sinhala/referenced/sin_5681_0691125093.wav|baediim monataram siyum daeyi teerum gata haekiya.
+/home/datasets/sinhala/referenced/sin_5681_0822826887.wav|agni jaatiyee teejoo balaya aDapana vana ekama davasa eekayi.
+/home/datasets/sinhala/referenced/sin_5681_0999622831.wav|mokada viduliya nodaena bhaavitaya maru kaendaviya haeka.
+/home/datasets/sinhala/referenced/sin_5681_1230425212.wav|mee poDi deeval valaTa ranDu velaa teerumak naehae.
+/home/datasets/sinhala/referenced/sin_5681_1244566792.wav|looka janataava aarthika arbudayakaTa patva siTina avasthaavaki mee.
+/home/datasets/sinhala/referenced/sin_5681_1305360219.wav|meya saepavat deyin vaelakii siTiimaTa huru kiriimaki.
+/home/datasets/sinhala/referenced/sin_5681_1514844700.wav|in pasu kaha kurullaa piyaeembuyee ramcuva maedaTa vannaTaya.
+/home/datasets/sinhala/referenced/sin_5681_1542552775.wav|upaali gaena kaTakataavaTa pilituru ada divayinee tiyenavaa.
+/home/datasets/sinhala/referenced/sin_5681_1719123268.wav|upakarana pannipiTiyaTa genavit nidivaraagena eevaa aluutvaeDiyaa karannaTa sidu viya.
+/home/datasets/sinhala/referenced/sin_5681_1822800525.wav|meevaeDavala vagakiimen koTasak obatumiit baaraganna oona.
+/home/datasets/sinhala/referenced/sin_5681_1829059880.wav|aanayanaya karana indhanavala viyadamen tunen ekak venkarannee viduliya nipadaviimaTayi.
+/home/datasets/sinhala/referenced/sin_5681_1884981022.wav|kaTTiyaTama mee koTasa rasavidinna kiyalaa aaraadhanaa karanavaa.
+/home/datasets/sinhala/referenced/sin_5681_1950750058.wav|muvan paelaessa ahanakoTa kelinma matak vennee kooralee mahattayaava.
+/home/datasets/sinhala/referenced/sin_5681_2033773468.wav|metana kiyala tiyennee api akamaeti unat siduviya haeki dee.
+/home/datasets/sinhala/referenced/sin_5681_2044490577.wav|mee sandahaa sadaacaara dharma da sambandha viya yutumaya.
+/home/datasets/sinhala/referenced/sin_5681_2191837209.wav|mituru veesayen aevit inne haturek vadhakayek.
+/home/datasets/sinhala/referenced/sin_5681_2249162087.wav|nissamka vijayaratna vivaaha vuuyee rambukkana valavvee niiTaa duullaeeva menaviya samanga ya.
+/home/datasets/sinhala/referenced/sin_5681_2575118167.wav|lookayee oonaeema sthaanayakaTa gos saTan kala haeki saktiyak tibenavaa.
+/home/datasets/sinhala/referenced/sin_5681_2600791806.wav|muvanpaelaessa gattot ee parisaraya hitee maevenavaa.
+/home/datasets/sinhala/referenced/sin_5681_2609449475.wav|maanasika asahanaya nisaa dukvindinnan samaajayee bahulaya.
+/home/datasets/sinhala/referenced/sin_5681_2636289797.wav|yaturupaediya mahattayaagee yaaluvakugen illagena aavee.
+/home/datasets/sinhala/referenced/sin_5681_2644967010.wav|aayet vatura daala api kaenda muuTTiya unduna uDit taebuvaa.
+/home/datasets/sinhala/referenced/sin_5681_2669024164.wav|mema siddhiya vuuvee budun vahansee jiivamaana kaalayeediimayi.
+/home/datasets/sinhala/referenced/sin_5681_2763038231.wav|mema kandu mudunin gamngaa kiipayak aarambha vii dakuna haa basnaahira paeti valaTa galaa basii.
+/home/datasets/sinhala/referenced/sin_5681_2806172428.wav|bhugooliiya vasayen baeluu kalada saanta kiiTas haa neevis yanu liivarD duupat hi koTasak vee.
+/home/datasets/sinhala/referenced/sin_5681_2935325637.wav|itaama asiiruven bas seevaava pavatvaagena yana bavayi.
+/home/datasets/sinhala/referenced/sin_5681_3223517619.wav|illalaa dunnee naetnam eeka horakam karagena yanavaa.
+/home/datasets/sinhala/referenced/sin_5681_3318948272.wav|devaeni kondeesiya vuuyee paramparaa tunak aetulata simhala viyayutu bavayi.
+/home/datasets/sinhala/referenced/sin_5681_3362532660.wav|ekinekaaTa viruddhava gaman kiriima tarahava vardhanaya karayi.
+/home/datasets/sinhala/referenced/sin_5681_3483862106.wav|magee tunvana upasiraesiyen hamuvena tek samugannam.
+/home/datasets/sinhala/referenced/sin_5681_3856120627.wav|burumaya maedin galaa basnaa vuu visaala gamngaava vanuyee iravaDiya.
+/home/datasets/sinhala/referenced/sin_5681_3864108836.wav|mema panata gaenavat kisima deyak karana ekak naehae.
+/home/datasets/sinhala/referenced/sin_5681_3873090853.wav|meeka purudu karala bohoo denek samsaaren atmiduna.
+/home/datasets/sinhala/referenced/sin_5681_4177364095.wav|meeka sampuurnayen ma budurajaanan vahanseeTa karana agauravayak.
+/home/datasets/sinhala/referenced/sin_5681_4189345734.wav|maTa amataka vunaa mee tiyennee eyaa gaena mam issara liyapu lipiyaka.
+/home/datasets/sinhala/referenced/sin_5681_4214327273.wav|miiTa pera maheela jayavardhana ema anumaetiya labaagena siTiyee ya.
+/home/datasets/sinhala/referenced/sin_5681_4418548412.wav|menna obee mul kaviyee antargatayee maa dakina vaeradi.
+/home/datasets/sinhala/referenced/sin_5681_4434524948.wav|gamaTa arakku aetulu duraacaara handunvaa dennee ohuyi.
+/home/datasets/sinhala/referenced/sin_5681_4569911427.wav|aeti taram viveeka ganna eeka tamayi karanna tiyenne.
+/home/datasets/sinhala/referenced/sin_5681_4610417945.wav|abuddassa kaale gedara gaeenit ee gaanaTa vaeTilaa vaage.
+/home/datasets/sinhala/referenced/sin_5681_4626105367.wav|meya duka naeti kiriimen labannaa vu vimuktiyayi.
+/home/datasets/sinhala/referenced/sin_5681_4631175806.wav|yudhapiTiyee bera vaadakayin horanaeekaruvan haa nalaakaruvan viya.
+/home/datasets/sinhala/referenced/sin_5681_4758791947.wav|minissunTa tavama deesapaalanaya pilibanda muulika samveediitaavayak naee.
+/home/datasets/sinhala/referenced/sin_5681_4841423790.wav|minisaaTa kopamana kaaranaa sampuurna vuvat aDuvak daenee.
+/home/datasets/sinhala/referenced/sin_5681_5021702668.wav|monaavunat itin stuutiyi kivvaa upasiraesiyaTa.
+/home/datasets/sinhala/referenced/sin_5681_5106820524.wav|unnaanseelaaTa uDin maessekuTavat yanna iDa naeta.
+/home/datasets/sinhala/referenced/sin_5681_5157163750.wav|pavulee kaTayutuvala avul tattvayak pennum karayi.
+/home/datasets/sinhala/referenced/sin_5681_5235420010.wav|enam ehi yam samaaja deesapaalana tarkanayak gaebva pavati.
+/home/datasets/sinhala/referenced/sin_5681_5360212305.wav|miiTa kalin haek karapu eevaa nam aayimat dakinna laebune naehae.
+/home/datasets/sinhala/referenced/sin_5681_5373003223.wav|aematitumaa tamayi vena kavurut apaTa udavu karanne naehae.
+/home/datasets/sinhala/referenced/sin_5681_5444212052.wav|mekala vividha vuu jaalakarana imjineeruvaruvan daknaTa laebee.
+/home/datasets/sinhala/referenced/sin_5681_5494113822.wav|emgalante raja venna puluvan aemglikan ayaTa vitarayi.
+/home/datasets/sinhala/referenced/sin_5681_5513753833.wav|mee karunuvalin bhiksuva kumana nikaayakaTa ayatdaeyi daenagata haekiya.
+/home/datasets/sinhala/referenced/sin_5681_5518682192.wav|ehidi visaala sabdayak haa aalookayak piTavee.
+/home/datasets/sinhala/referenced/sin_5681_5549595987.wav|mevaeni paaharayakugen iiTa vaDaa monavaa balaaporottu vennada.
+/home/datasets/sinhala/referenced/sin_5681_5610599712.wav|menma naevata naevata nirmaanayak sidu kiriimaTa apiTa udav karanavaa.
+/home/datasets/sinhala/referenced/sin_5681_5654345802.wav|ansatu mudal hoo raekiyaavee hinga mudalak hoo laebenu aeta.
+/home/datasets/sinhala/referenced/sin_5681_5692427441.wav|mee deesanaava aesuu dusil mahanahu mee saasanaya aiscaryaya.
+/home/datasets/sinhala/referenced/sin_5681_5934084258.wav|mekii siddhiin yugalaya harahaa apuuru yamak kiyavaa gata haekiya.
+/home/datasets/sinhala/referenced/sin_5681_5959986953.wav|aegee alut toraturu daena ganna mevara api aeya soyaa giyaa.
+/home/datasets/sinhala/referenced/sin_5681_6268665619.wav|mun mokaTa mehe aevilla duk vidinavada mandaa.
+/home/datasets/sinhala/referenced/sin_5681_6294803348.wav|eya daen pavatina aemerikaanu DolarayakaTa ihala apeeksaavaki.
+/home/datasets/sinhala/referenced/sin_5681_6468424587.wav|miiduma sulanga vaessa yana tunama apa tava tavat dirimat kala bava kivvot nivaeradiyi.
+/home/datasets/sinhala/referenced/sin_5681_6627135868.wav|mehidii sandahan karannee vidarsanaa bhaavanaa gaenayi.
+/home/datasets/sinhala/referenced/sin_5681_6653438724.wav|mema sarpayaagen kumana avasthaavaka vinaasaya siduveedaeyi sitiya nohaeka.
+/home/datasets/sinhala/referenced/sin_5681_6704020824.wav|mema caarikaavehi miilanga dina saTahanen ee gaena kiyannam.
+/home/datasets/sinhala/referenced/sin_5681_6842259587.wav|nisaantagee maranayee kisidu salakunak ovunTa hamu noviiya.
+/home/datasets/sinhala/referenced/sin_5681_6844018980.wav|mema samiiksanaya aemarikaanu samaajaya padanam karaganimin kerunu samiiksanayaki.
+/home/datasets/sinhala/referenced/sin_5681_6848760411.wav|aadivaasii naayakayaa guvanin giya videesa samcaara ganana dekaki.
+/home/datasets/sinhala/referenced/sin_5681_6865849402.wav|gaeTumeedii vaahana kihipayakaTa alaabha haanii sidu vii aeta.
+/home/datasets/sinhala/referenced/sin_5681_6890541075.wav|safrayi mamayi aa giya taen pavaa mama tusaariTa pennuvaa.
+/home/datasets/sinhala/referenced/sin_5681_6923758239.wav|aengapata visituru vastaabharanayen sarasanna giyee naee.
+/home/datasets/sinhala/referenced/sin_5681_7114614825.wav|avasaanayee eekaTa skoT mahattayat sambandha venavaa.
+/home/datasets/sinhala/referenced/sin_5681_7385150866.wav|mesee sihipatkaramin naada karana ghanThaarayak lova tibee da.
+/home/datasets/sinhala/referenced/sin_5681_7393692311.wav|mudal dii balapaeema kiriima haa tarjana kiriim enu aeta.
+/home/datasets/sinhala/referenced/sin_5681_7471054684.wav|mee nisaa apee taruniyanTa svabhaavika aaraksaavak laebunaa.
+/home/datasets/sinhala/referenced/sin_5681_7490556272.wav|giya kenaa giyaa kiyala saenasennaTa apiTa baehae tamayi.
+/home/datasets/sinhala/referenced/sin_5681_7592524836.wav|mehen minissu aturudahan vena eka boruvak neveyi.
+/home/datasets/sinhala/referenced/sin_5681_7620176346.wav|mahaa polovaTa ehema uhulanna puluvankamak naehae.
+/home/datasets/sinhala/referenced/sin_5681_7665499745.wav|apiTat mehema jiivitayak laebunot monava veyida.
+/home/datasets/sinhala/referenced/sin_5681_7949345466.wav|indu pakisthaana yuddhayen pasu bamgalaadeesaya bihi viya.
+/home/datasets/sinhala/referenced/sin_5681_8026184333.wav|meccara kal lookee hapankam kalee yuroopayayi aemerikaavayi.
+/home/datasets/sinhala/referenced/sin_5681_8052377644.wav|dhanayada balayada ee sandahaa oonaeevaTat vaDaa avakaasa tanavaa aeta.
+/home/datasets/sinhala/referenced/sin_5681_8201600311.wav|mema abhiyoogaya jaya gaeniimen torava raTak lesa jaatiyak lesa apaTa idiri gamanak naeta.
+/home/datasets/sinhala/referenced/sin_5681_8236608140.wav|holivuD suruupinii seliinaa goomas mee dinavala alut vagakiimak daranavaa.
+/home/datasets/sinhala/referenced/sin_5681_8334733309.wav|meya duTu jambuka aajivakayaagee maannaya duruvunaa.
+/home/datasets/sinhala/referenced/sin_5681_8395429615.wav|paenideni kaTugastoTa bas eka nam nodanii.
+/home/datasets/sinhala/referenced/sin_5681_8535741577.wav|pahasuven ee pudgalayaava koTu karaganna tibunaanee.
+/home/datasets/sinhala/referenced/sin_5681_8543049263.wav|ohu upata labaa aettee homkom hiidiya.
+/home/datasets/sinhala/referenced/sin_5681_8556026292.wav|minis diviya tiirnaatmakva venas kala maedihatkamakviya.
+/home/datasets/sinhala/referenced/sin_5681_8610813797.wav|meya nuutana handapaanaavilluvee aeti naTabun vuu vaevayi.
+/home/datasets/sinhala/referenced/sin_5681_8696804715.wav|ada nispaadakavaru sinamaa saalaa himiyanTa baninavaa.
+/home/datasets/sinhala/referenced/sin_5681_8712986944.wav|mokada lamkaave vinooda karmaantaya paTan ganna yugayee.
+/home/datasets/sinhala/referenced/sin_5681_8730988029.wav|miigasmulla yana mahatvarungee sahabhaagitvayen paevaetviimaTa niyamitaya.
+/home/datasets/sinhala/referenced/sin_5681_8878360681.wav|mekii visaya paddhatiya pilibanda unanduva aeti vunee ada iiyeka neveyi.
+/home/datasets/sinhala/referenced/sin_5681_9030548066.wav|oyagollovat meeka kiyavala mee aitihaasika taena balanna yanna.
+/home/datasets/sinhala/referenced/sin_5681_9073636069.wav|mema kunaaTuva miiTar hatak dakvaa usva naengii tibuni.
+/home/datasets/sinhala/referenced/sin_5681_9149595247.wav|meeke kataava potee kataavaTa vaDaa haatpasinma venas.
+/home/datasets/sinhala/referenced/sin_5681_9766243182.wav|memagin budun vahanseegee dasabaladhaarii gunaya vidahaa daekvee.
+/home/datasets/sinhala/referenced/sin_5681_9778863723.wav|aettenma hadavataTa daenena vidiyaTa gayana gaayakayek tamaa eyaa.
+/home/datasets/sinhala/referenced/sin_6314_0000039087.wav|rajatumaaTa venadaa men karunaaven set paetuvaa.
+/home/datasets/sinhala/referenced/sin_6314_0052553467.wav|meeket ara vageema aadara andarayakut yanavaa yaTin.
+/home/datasets/sinhala/referenced/sin_6314_0078514037.wav|raee veelenut bat pinDu pahak ayin kiriimaTa haekiya.
+/home/datasets/sinhala/referenced/sin_6314_0130786402.wav|ramjit eekanaayaka mahataagee nivesin asannaTa laebee.
+/home/datasets/sinhala/referenced/sin_6314_0144984924.wav|aatma vamcaaven yutuva tamaa visin tamaava ravaTaa gannaa pudgalayekmayi.
+/home/datasets/sinhala/referenced/sin_6314_0147736841.wav|handunvannee pubbee nivaasaanussati knaanaya namin.
+/home/datasets/sinhala/referenced/sin_6314_0273493326.wav|salli gevaaganna baerivunahama yanna siddha velaa.
+/home/datasets/sinhala/referenced/sin_6314_0319052980.wav|metaen siTa kanda uDaraTa avul jaalaavak bavaTa patviya.
+/home/datasets/sinhala/referenced/sin_6314_0425042479.wav|haebaeyi meka daenaTama balalaa tiyenavaa da dannee naehae.
+/home/datasets/sinhala/referenced/sin_6314_0440026025.wav|mokada min pera kiipa vataavee ehema kiyaa tibenavaa.
+/home/datasets/sinhala/referenced/sin_6314_0485732104.wav|meeka rejinoolD roos gee pudgalika atdaekiimak uDayi liyavenne.
+/home/datasets/sinhala/referenced/sin_6314_0596794836.wav|simhala buddaagamaTa laedii minissu taama innavaa.
+/home/datasets/sinhala/referenced/sin_6314_0710860076.wav|haebaeyi putoo ehe tiyennee poDi poDi geval.
+/home/datasets/sinhala/referenced/sin_6314_0760037255.wav|sarva sampuurna pavulak hadaaganna kaaTavat baehae.
+/home/datasets/sinhala/referenced/sin_6314_0966613381.wav|yanna uvamanava tibuna et tavama yanna baeri unataenak.
+/home/datasets/sinhala/referenced/sin_6314_1065206697.wav|haebaeyi ohuTa sindu kiyanna puluvanda baerida dannee naee.
+/home/datasets/sinhala/referenced/sin_6314_1444278150.wav|yaTaala veherada kalin mee haeDayen tibii aetaeyi saelakee.
+/home/datasets/sinhala/referenced/sin_6314_1687488546.wav|paapayehi saha kusalayehi siduvana amutu palandimak da naeta.
+/home/datasets/sinhala/referenced/sin_6314_1692229636.wav|yamek sisTha venne goDaak deeval paalanaya karagena.
+/home/datasets/sinhala/referenced/sin_6314_1703704458.wav|raTee tattvaya kalaavaTa yahapat kiyalaa obaTa hitenavada.
+/home/datasets/sinhala/referenced/sin_6314_1748132699.wav|simhayaa minisunTa paharadennee kalaaturakini.
+/home/datasets/sinhala/referenced/sin_6314_2009978081.wav|simhala blog itihaase dihaa baeluvama paehaediliyi.
+/home/datasets/sinhala/referenced/sin_6314_2147084161.wav|rahasinvat pav nokala heyinda araham nam vana seeka.
+/home/datasets/sinhala/referenced/sin_6314_2224084573.wav|mokaada kakaa ee gamana aapu kaDaakappalkaarii henahuraa.
+/home/datasets/sinhala/referenced/sin_6314_2322000532.wav|sTiiv jobsTa maerena turu upaadhiyak tibune naeta.
+/home/datasets/sinhala/referenced/sin_6314_2331071234.wav|ruupaveedanaa saknknaa samkhaara haa viknknaana yanu pakncaskandhayayi.
+/home/datasets/sinhala/referenced/sin_6314_2346694094.wav|haema deyinma amga sampuurna supiri nirmaanayak.
+/home/datasets/sinhala/referenced/sin_6314_2478166538.wav|mokoo api poliisiyaTa gihin paeminillak daanna kiyalayi.
+/home/datasets/sinhala/referenced/sin_6314_2757750824.wav|yahapat paevaetmaTa vaDaa honda mantarayak mama nam dannee naehae.
+/home/datasets/sinhala/referenced/sin_6314_2871787566.wav|mohugen buddha ciivarayehi vaTinaakama raeka denu maenavi.
+/home/datasets/sinhala/referenced/sin_6314_2940301940.wav|jalaya mulumaninma ivatvanasee avvee tabaa veelaaganii.
+/home/datasets/sinhala/referenced/sin_6314_2967754031.wav|lookayee aeti utum vaTinaa deya haeTiyaTa penii yayi.
+/home/datasets/sinhala/referenced/sin_6314_3074592391.wav|haemooma satuTin vivaaha utsavayaTa laeesti venavaa.
+/home/datasets/sinhala/referenced/sin_6314_3360366490.wav|haebaeyi karunaakaralaa chandaya illannam laeesti venna epaa.
+/home/datasets/sinhala/referenced/sin_6314_3571270656.wav|yam pirisak veta elaembee nam visaaradava elambeti.
+/home/datasets/sinhala/referenced/sin_6314_3618066037.wav|mohugee darsanaya amaraavikseepavaadaya namin haendinvee.
+/home/datasets/sinhala/referenced/sin_6314_3633687792.wav|meeka samcaarayak vageema vandanaa gamanak vasayen handunvannat puphavan.
+/home/datasets/sinhala/referenced/sin_6314_3669372609.wav|paali bhaasaava gaena mee taram unandu viya yuttee aeyi.
+/home/datasets/sinhala/referenced/sin_6314_3867484031.wav|yaksa kumbhaanDa aadiin apa deviyan kiyaa hoo nosalakamu.
+/home/datasets/sinhala/referenced/sin_6314_4014810528.wav|sarala heetu daekviimin hitaaganna puluvan vunaa.
+/home/datasets/sinhala/referenced/sin_6314_4090790944.wav|issaranam dakina dakina viccuurana kaeema jaati kanavaa.
+/home/datasets/sinhala/referenced/sin_6314_4143808625.wav|viduhalpatigee kaTahanDa paasala avaTa raev demin paetirini.
+/home/datasets/sinhala/referenced/sin_6314_4319934119.wav|haema ekekma mee gaena mulinma ahanne aematigen.
+/home/datasets/sinhala/referenced/sin_6314_4418447383.wav|haebaeyi taman karana dee hariyanavaa kiyana tada visvaasayen.
+/home/datasets/sinhala/referenced/sin_6314_4637059138.wav|mokada kaarimika silpiinTa adaala daenuma naeti nisaa.
+/home/datasets/sinhala/referenced/sin_6314_4764554017.wav|sTaenligee birinda da janaadhipativarayaaTa lipiyak yavaa tibee.
+/home/datasets/sinhala/referenced/sin_6314_4767165086.wav|perahaera samvidhaanaya kiriimee dii diyavaDana nilamee veta paevarennee kinam kaaryabhaarayakda.
+/home/datasets/sinhala/referenced/sin_6314_4790518142.wav|hitee aendunu karanna kaemaeti caritayak tiyenavada.
+/home/datasets/sinhala/referenced/sin_6314_5051699655.wav|mokada gal anguruvalin viduli eekakayak nipadavanna yannee.
+/home/datasets/sinhala/referenced/sin_6314_5167493334.wav|monavaa hari vavanavaa nam vanajiivii eken sattu gam vadina eka navatinavaa.
+/home/datasets/sinhala/referenced/sin_6314_5194487724.wav|mokada api kavurut paripuurna minisun nemeyi.
+/home/datasets/sinhala/referenced/sin_6314_5238976798.wav|issaravelaa haamuduruvanTa garu karanna purudu veyan.
+/home/datasets/sinhala/referenced/sin_6314_5396288311.wav|mokada mee raTee harak maerennee avuruddakayaTa laksayayi.
+/home/datasets/sinhala/referenced/sin_6314_5461496520.wav|haebaeyi niladhaariivaadaye nam saeehena balapaeemak tiyanavaa.
+/home/datasets/sinhala/referenced/sin_6314_5814661875.wav|haebaeyi mama vaedagat parana lipi okkomat kiyavanavaa.
+/home/datasets/sinhala/referenced/sin_6314_5960699837.wav|haemooTama samaana ayitivaasikam laebiya yutuyi kiyana aramunen.
+/home/datasets/sinhala/referenced/sin_6314_5972427527.wav|yam kisi mudalak itiri kara gaeniimaTada haeki vana vasarak vee.
+/home/datasets/sinhala/referenced/sin_6314_6094867444.wav|yam kenekuTa oonaeema aendumak aendiimee ayitiya venuveni.
+/home/datasets/sinhala/referenced/sin_6314_6152163786.wav|mokada kivuvot meke vennema hinaa venna puluvan deeval.
+/home/datasets/sinhala/referenced/sin_6314_6188454856.wav|puda puujaa paevaetviimen pin sidu venava kiyala.
+/home/datasets/sinhala/referenced/sin_6314_6276235604.wav|haebaeyi kana lagin aesTaroyiDa giyaama tamaa danne.
+/home/datasets/sinhala/referenced/sin_6314_6416493457.wav|lookayama hinassavana karunu kiyana eka dharma daanaya novee.
+/home/datasets/sinhala/referenced/sin_6314_6458647668.wav|yaapaa raalaTa eekanaayaka appuhaami namin putek siTiyeeya.
+/home/datasets/sinhala/referenced/sin_6314_6671030360.wav|daen sambuddhatva jayantiya elambemin tibee.
+/home/datasets/sinhala/referenced/sin_6314_6675167223.wav|haebaeyi budu dahamee aarya kiyannee nam vena ekakaTa.
+/home/datasets/sinhala/referenced/sin_6314_6694196092.wav|haebaeyi kolloo aemarikan kaarayava kaDee yavannanam baeri veyi.
+/home/datasets/sinhala/referenced/sin_6314_6859628153.wav|miiTa amatarava aayurveeda lit pandahasakda raTapuraa bedaahaeriimaTa niyamitayi.
+/home/datasets/sinhala/referenced/sin_6314_6970231581.wav|raTee saeema puravaesiyekuTama yaepiim maargayak tibiya yutuya.
+/home/datasets/sinhala/referenced/sin_6314_6974906822.wav|seen voon visin daraa tibuu ema vaartaava muralidaran visin abhibavana ladi.
+/home/datasets/sinhala/referenced/sin_6314_7055077656.wav|mee bhavayaTa aelum karanneet aasaa karanneet naehae.
+/home/datasets/sinhala/referenced/sin_6314_7220148352.wav|mokada kanna naetuva hiTapu kenek nevee siduhat kumaarayaa.
+/home/datasets/sinhala/referenced/sin_6314_7301982753.wav|hariyaTa samvidhaanaya unot saelasum haeduvot kiyala.
+/home/datasets/sinhala/referenced/sin_6314_7303523063.wav|sitaTa saenasilidaayaka tattvayak udaaviya haeki davasaki.
+/home/datasets/sinhala/referenced/sin_6314_7380604289.wav|svaamiini seTa davasehi dii dhaatu nidhan karannemi.
+/home/datasets/sinhala/referenced/sin_6314_7435438483.wav|paerani sen pansal dekaka lamaa sisun dedenek viya.
+/home/datasets/sinhala/referenced/sin_6314_7605773958.wav|yaaluvaa oyaa loku jookar kenek kiyalada hitan inne.
+/home/datasets/sinhala/referenced/sin_6314_7618506405.wav|lamkaa bhiksuninTa noyek avasthaavaladii tarjana haa duskarataa aetiviya.
+/home/datasets/sinhala/referenced/sin_6314_7698665623.wav|issara kimbula kiyalaa udalu vagayak tibbaa nam matakayi.
+/home/datasets/sinhala/referenced/sin_6314_7799776437.wav|simhalun kiyannee atisaya kalaakaamii janakoTThaasayak.
+/home/datasets/sinhala/referenced/sin_6314_7922251719.wav|looka sattvayaa haTa tamaagee yayi kiyaa kisivak naehae.
+/home/datasets/sinhala/referenced/sin_6314_7971163838.wav|yam kisi upakaranayakaTa goocara vana deyada piliganimu.
+/home/datasets/sinhala/referenced/sin_6314_8063490411.wav|yanaadii duskara gaeTalu veta apagee avadhaanaya yomu viya yutuyi.
+/home/datasets/sinhala/referenced/sin_6314_8079997462.wav|saralava nidahasee jiivatvenna tiyanavanam koyitaram deyak da.
+/home/datasets/sinhala/referenced/sin_6314_8215214417.wav|meevaa bohooma saralava paehaedili karagata haeki deeval.
+/home/datasets/sinhala/referenced/sin_6314_8252530085.wav|yanna gaena naevata naevatat sitaabaeliya yutu venavaa.
+/home/datasets/sinhala/referenced/sin_6314_8332514026.wav|monaravila naamaya kaeppeTipola disaavagee mav parapuree naamayayi.
+/home/datasets/sinhala/referenced/sin_6314_8509701074.wav|saadarayen piligannavaa bayiskoop simhalen kanDaayamaTat.
+/home/datasets/sinhala/referenced/sin_6314_8732113728.wav|kokaa koolaa notibuna kaaleka tibuna honda rasak kokaa koolaa pamanak bona ayaTa daeneeda.
+/home/datasets/sinhala/referenced/sin_6314_8936403815.wav|yamapalloo nirisatun ema parvatavalaTa nanvamin peralaa damati.
+/home/datasets/sinhala/referenced/sin_6314_8947509646.wav|hapoyi dukaa ayiyee hinaava navattaganna baeri unaa.
+/home/datasets/sinhala/referenced/sin_6314_8957178068.wav|sudu paehaeti vaeen rathayakin maenDelaa paehaera ganu labayi.
+/home/datasets/sinhala/referenced/sin_6314_8989452783.wav|rajamaaligaavee siyaluu denaagee vihiluvaTa lakvunaa.
+/home/datasets/sinhala/referenced/sin_6314_9068953722.wav|haebaeyi aepakaru baemkuvalaTa polu notiyapu kenek venna oone.
+/home/datasets/sinhala/referenced/sin_6314_9104264395.wav|boru mahajana paeminilivalin nidahas viimaTa haeki viima.
+/home/datasets/sinhala/referenced/sin_6314_9139060553.wav|sahoolaa kiyana nisaa mama salakalaa balannamko ee gaena.
+/home/datasets/sinhala/referenced/sin_6314_9161072575.wav|rajjuruvoo raTee inna lassanama gaenu kenaava kasaada badinavaa.
+/home/datasets/sinhala/referenced/sin_6314_9254826795.wav|yaaluvoo hitannee haerii eyaava marala daalaa kiyalaa.
+/home/datasets/sinhala/referenced/sin_6314_9278982647.wav|laamkika samaajayeeda mavupiyanTa himi vannee advitiiya sthaanayaki.
+/home/datasets/sinhala/referenced/sin_6314_9295484354.wav|saaravat kumburaka siTavapu kunu vecca biijayak vagee.
+/home/datasets/sinhala/referenced/sin_6314_9438535153.wav|haema raTakama vaagee nitiiyenma dakvalaa tiyenavaa novae.
+/home/datasets/sinhala/referenced/sin_6314_9439951380.wav|yam arthaya pinisa sadaa puknknam pavaDDhati kiyana ladii.
+/home/datasets/sinhala/referenced/sin_6314_9487561718.wav|mooDi laabaala viyee dii yoojita vivaahayakaTa anuva vivaaha vuu bava paevaesuni.
+/home/datasets/sinhala/referenced/sin_6314_9540310631.wav|paapa mituran handunaa gaeniimaTa taram apa parissam viya yutuya.
+/home/datasets/sinhala/referenced/sin_6314_9549392018.wav|haemadaama volpeepar eka daha pahalos paarak maaru kalaa.
+/home/datasets/sinhala/referenced/sin_6314_9700806703.wav|mokada maenDelaa maerenne naetuva jiivatva innavaanee.
+/home/datasets/sinhala/referenced/sin_6314_9867335919.wav|minisaa veta svaamitvayat vagakiimat nidahasat paevaree.
+/home/datasets/sinhala/referenced/sin_6897_0168232215.wav|svabhaavadharmayee apuurutama camatkaarayan api issaraha mavanavaa.
+/home/datasets/sinhala/referenced/sin_6897_0241127126.wav|miiTa amatarava rudhirayehi da mema rasaayanikaya antargata vii tibee.
+/home/datasets/sinhala/referenced/sin_6897_0357780168.wav|mokada apee deeval api nodanna ekakaTa denna vena eka.
+/home/datasets/sinhala/referenced/sin_6897_0560147253.wav|vicaarasiili bauddhayekuTa ekanga noviya haeki taenaki.
+/home/datasets/sinhala/referenced/sin_6897_0667638746.wav|mokada ohu deeva duutakavarayak lesa kuraanayee sadahan velaa tiyanavaa.
+/home/datasets/sinhala/referenced/sin_6897_0713456696.wav|paenideni kaTugastoTa bas eka nam nodanii kakaa mahattayoo.
+/home/datasets/sinhala/referenced/sin_6897_0787936937.wav|simhala aluut avuruddaTat ee aya etana hiTiyaluu.
+/home/datasets/sinhala/referenced/sin_6897_0985538562.wav|haebaeyi ookunge diviyaka padanamaTa kelavelaa ivarayi.
+/home/datasets/sinhala/referenced/sin_6897_1125789254.wav|mokada meevaa kisivak api maerenna aran yannee naehae.
+/home/datasets/sinhala/referenced/sin_6897_1297242168.wav|vaeDi duraTat samgiitaya vidhimatva hadaaranna upades dunnaa.
+/home/datasets/sinhala/referenced/sin_6897_1316379703.wav|skoT ekanga unaaTa haemadaama aelisanva hambavenna yanavaa.
+/home/datasets/sinhala/referenced/sin_6897_1412774916.wav|haema kenaama tamanTa ayiti kaariya daenan hiTiyaa.
+/home/datasets/sinhala/referenced/sin_6897_1429096704.wav|simhala veevaa demala veevaa kavuru unat minissu.
+/home/datasets/sinhala/referenced/sin_6897_1554471231.wav|mokada kavuruvat ooka karana gaman aDana un innavada.
+/home/datasets/sinhala/referenced/sin_6897_1670502635.wav|mokada metana goDak velaavaTa diya suli bahula taenak.
+/home/datasets/sinhala/referenced/sin_6897_1708759200.wav|rucikatvayak daekvuuyee itaa sarala aahaara veelakaTaya.
+/home/datasets/sinhala/referenced/sin_6897_1919677435.wav|miiTa amatarava itaaliyee paarlimeentuvee asun gaeniimaTada ovun samat vii avasaanayi.
+/home/datasets/sinhala/referenced/sin_6897_1955120659.wav|miiTa amatarava baemku nayadiima sandahaa taenpatu vaeDikara gata yutuya.
+/home/datasets/sinhala/referenced/sin_6897_2252592779.wav|monataram gaemburu avaboodhayak mee sita gaena tibila tiyenavada.
+/home/datasets/sinhala/referenced/sin_6897_2279157368.wav|perahaera tula ali aetunTa himivannee suviseesii sthaanayak.
+/home/datasets/sinhala/referenced/sin_6897_2314570930.wav|mokada mama ramganayaTa puduma taram aadaree karana kenek.
+/home/datasets/sinhala/referenced/sin_6897_2325581318.wav|haebaeyi pin kiyanne monaada kiyalaa mulin igena ganna.
+/home/datasets/sinhala/referenced/sin_6897_2404482576.wav|yaanayee pasupasa dorat vaesikili dorat atara dura miiTara dekakvat naee.
+/home/datasets/sinhala/referenced/sin_6897_2411437984.wav|simhala upasiraesi sambandhayen aetivana gaeTaluvalaTa pilituru.
+/home/datasets/sinhala/referenced/sin_6897_2467060992.wav|mokada mee manussayat ehema kenek venna puluvan hindaa.
+/home/datasets/sinhala/referenced/sin_6897_2493768429.wav|hiTihaeTiyee ovungen ayekugee atamiTa saruvii tibina.
+/home/datasets/sinhala/referenced/sin_6897_2540864146.wav|mobayil kaneksan gaena kiyaddi mehema deyak maTa vunaa.
+/home/datasets/sinhala/referenced/sin_6897_2596614123.wav|yahaluvekTa pota paas karaddi kollek liyapu ekak.
+/home/datasets/sinhala/referenced/sin_6897_2739161025.wav|yakoo blog avakaase inne mee vagee paTTa mooDayooda.
+/home/datasets/sinhala/referenced/sin_6897_2754529027.wav|mokada ovungee pandu yaeviima etaram tarjanayak tibunee naee.
+/home/datasets/sinhala/referenced/sin_6897_2955781660.wav|rajatumaa eyada mahaa samgharatnayaTa pujaa kala bava sandahan vee.
+/home/datasets/sinhala/referenced/sin_6897_3009038924.wav|mokoo oovaa oppu karalaa pennanna puluvan kiyalaya.
+/home/datasets/sinhala/referenced/sin_6897_3018591447.wav|ruupavaahinii nalu niliyan lesa hida gata yutu naeta.
+/home/datasets/sinhala/referenced/sin_6897_3117231257.wav|rajatumaa samaga giya pirisa da avut etumaa pirivaraa gat ha.
+/home/datasets/sinhala/referenced/sin_6897_3695054124.wav|raTee yuktiyak saadhaaranayak kiyalaa ekak tiyenavaada.
+/home/datasets/sinhala/referenced/sin_6897_3756607291.wav|saakkuvee tibuna boonikkaava aragena mehema kivvaa.
+/home/datasets/sinhala/referenced/sin_6897_4239951844.wav|hasantat ehenam niyama ekakin vaeDa allalaa tiyennee.
+/home/datasets/sinhala/referenced/sin_6897_4294179946.wav|suddage diyunu raTavala ayakarana baddaTa samaana venavaa.
+/home/datasets/sinhala/referenced/sin_6897_4303094228.wav|yaTat velaa vaeDa karapu aya aetulee innavaa nam eka mahaa aparaadhayak.
+/home/datasets/sinhala/referenced/sin_6897_4360847230.wav|haemadeeTama ovunTa aengilla dik karana ekat leDak.
+/home/datasets/sinhala/referenced/sin_6897_4439659258.wav|ramjit navaratna maetitumaava mee deesapaalanaya sambandhava kaTayutu karaa.
+/home/datasets/sinhala/referenced/sin_6897_4499807127.wav|yam kenek jiivitaya pilibandava kalakirilaa divinasaa gannavaa.
+/home/datasets/sinhala/referenced/sin_6897_4574670509.wav|rahat utuman mee kisima taenaka kampaa viimak naee.
+/home/datasets/sinhala/referenced/sin_6897_4577559299.wav|yanna kalin kamenT ekak ehema daalaa yannat amataka karanna epaa.
+/home/datasets/sinhala/referenced/sin_6897_4635590252.wav|haebaeyi aanDuvee daam aedilla tamayi meekaTa mula.
+/home/datasets/sinhala/referenced/sin_6897_4672980455.wav|dumbara aDaviyee pamanak jiivat vana lamkaavaTa aaveenika miridiya kakulu viseesa hatarak da vee.
+/home/datasets/sinhala/referenced/sin_6897_4781111592.wav|haebaeyi siyaluu duppatun bohimiyaanuvoo noveti.
+/home/datasets/sinhala/referenced/sin_6897_4843312551.wav|haadayaa cuulage deesapaalana tarahakaarayek vage maTa peenne.
+/home/datasets/sinhala/referenced/sin_6897_4855915594.wav|ek laksa asuu haya dahasak davas tunen hamba kalaada.
+/home/datasets/sinhala/referenced/sin_6897_4866488569.wav|ruupayaka naetinam sabdayaka ee vidhiyaTa sita aelenavaa.
+/home/datasets/sinhala/referenced/sin_6897_5035538213.wav|lookaya kerehi aeliimat gaeTiimat dekama tarahava aetiviimehilaa balapaayi.
+/home/datasets/sinhala/referenced/sin_6897_5186824219.wav|haebaeyi samboola maellum valaTa nam pol oonaeemayi.
+/home/datasets/sinhala/referenced/sin_6897_5303263487.wav|svaamiinii mam eya vikunannaTa salpilaTa geniccaa.
+/home/datasets/sinhala/referenced/sin_6897_5410117285.wav|haamuduruvoo mee bava vagakivayutu amsa valaTa daenvuvaa.
+/home/datasets/sinhala/referenced/sin_6897_5767425693.wav|yana gaman poDi adahasakut oya pahalin daagena yanna.
+/home/datasets/sinhala/referenced/sin_6897_5773984354.wav|raTee minisunTa aanDuvat samaga gaeTaluvak tiyenavaa tamayi.
+/home/datasets/sinhala/referenced/sin_6897_5793830130.wav|visaala kurullaku kaha kurullaa kavadaavat daeka naeta.
+/home/datasets/sinhala/referenced/sin_6897_5850695606.wav|yam yam parasparataa tibunat mee lipiyee samasthaya haa ekangayi.
+/home/datasets/sinhala/referenced/sin_6897_6170414462.wav|ruupaaruupa bhavayanhi satvayaa upata labannee mee heetuva nisayi.
+/home/datasets/sinhala/referenced/sin_6897_6220500143.wav|rajamahaa vihaarasthaanayee daayaka sabhaavee sabhaapati vayi.
+/home/datasets/sinhala/referenced/sin_6897_6333511788.wav|miiTa amatarava nirmaamsa viima hoo noviima hoo tamangee kaemaetta mata tiiranaya kala haeki deyaki.
+/home/datasets/sinhala/referenced/sin_6897_6404597642.wav|miiTa amatarava matpaen bootal visaala kandak lesa hooTalaya piTupasa goDagasaa tibee.
+/home/datasets/sinhala/referenced/sin_6897_6416244727.wav|mokada evaeni kalaatmaka deeval vikunaganna amaaruyi.
+/home/datasets/sinhala/referenced/sin_6897_6433798479.wav|rahal kumaru buduradun pasu pasa vihaarayaTama giyee ya.
+/home/datasets/sinhala/referenced/sin_6897_6558523846.wav|hindu aagama bhakti maargaya padanam karagat dharmayaki.
+/home/datasets/sinhala/referenced/sin_6897_6685755342.wav|mama film eka baeluvee kollupiTiyee libarTi sinamaa saalaavedi tamayi.
+/home/datasets/sinhala/referenced/sin_6897_6687866056.wav|yam velaavaka apee boodhisatvayan vahansee lumbini uyanehi upannada.
+/home/datasets/sinhala/referenced/sin_6897_6710117333.wav|movungee pahara heetuven darunu tuvaala siduvee.
+/home/datasets/sinhala/referenced/sin_6897_6782062522.wav|vaasala sohoyuraa maava goDak unandu karaa mee vaeDeeTa.
+/home/datasets/sinhala/referenced/sin_6897_6816981497.wav|haebaeyi kopamana durakaTa saarthaka veyida dannee naee.
+/home/datasets/sinhala/referenced/sin_6897_6958731775.wav|raekiyaa kaTayutu pilibanda idiri gamanak pennum karayi.
+/home/datasets/sinhala/referenced/sin_6897_7024558615.wav|mokada mee lipiyen ee pilibandava dala adahasak enavaa.
+/home/datasets/sinhala/referenced/sin_6897_7248863940.wav|hariyaTama hari ookaa nam niganTayekma vennama oona.
+/home/datasets/sinhala/referenced/sin_6897_7348044415.wav|venasviima yanna etaram sarala samkalpayak da no vee.
+/home/datasets/sinhala/referenced/sin_6897_7406526301.wav|raTa tula mahat kaelambili sahagata tatvayak aeti viimayi.
+/home/datasets/sinhala/referenced/sin_6897_7473714488.wav|hitaaganna puluvannee film eka kohomaTa aetida kiyalaa.
+/home/datasets/sinhala/referenced/sin_6897_7708203456.wav|yannat kusalaTa maeli noviya yutu bavat ehi daekvenavaa.
+/home/datasets/sinhala/referenced/sin_6897_7730358370.wav|hamuviimen ma ahubudu suuriin maagee sit aeda gatteeya.
+/home/datasets/sinhala/referenced/sin_6897_7833675043.wav|mahanuvara aesala perahaera saarthaka kaera gaeniima udesaa rajayen laebennee monavagee daayakatvayak da.
+/home/datasets/sinhala/referenced/sin_6897_7907738815.wav|haebaeyi putoo velanda pola kiyana eka hadanna puluvan.
+/home/datasets/sinhala/referenced/sin_6897_7973250797.wav|raagaadii keles samuuhaya kleesa maara yannen haendinvee.
+/home/datasets/sinhala/referenced/sin_6897_8000964510.wav|sahoodaravaruni mee davas vala maTa vaeDa kaTayutu adhikayi.
+/home/datasets/sinhala/referenced/sin_6897_8001913076.wav|hari ohoma tava kiloomiiTar hatak vitara issarahaTa yamukoo.
+/home/datasets/sinhala/referenced/sin_6897_8013503575.wav|paevidda vanaahi ebandu napuru tattvayak nova keles tunii karana pav aDukarana sasara keTi karana tattvayaki.
+/home/datasets/sinhala/referenced/sin_6897_8601844133.wav|yakun nam vuu minis pirisa aedahuyee malavunya.
+/home/datasets/sinhala/referenced/sin_6897_8662292740.wav|miiTa amatarava toraturu ihata durakathanayaTa kataa kiriimen labaagata haekiya.
+/home/datasets/sinhala/referenced/sin_6897_8684680327.wav|mokada gamee aya oya sambandhayen viroodhayak pala karanavaa.
+/home/datasets/sinhala/referenced/sin_6897_8969536046.wav|raja kaalee aendum valaTa goDak viyadam venna iDa tiyanavaa.
+/home/datasets/sinhala/referenced/sin_6897_8978142607.wav|skandha kiyannee kaalaya haa avakaasaya tula pavatina dee.
+/home/datasets/sinhala/referenced/sin_6897_9069394145.wav|haebaeyi maTa pudumaakaara saehaelluvakin hiTiyee.
+/home/datasets/sinhala/referenced/sin_6897_9308976229.wav|saroojaa tulin vuvat nivaeraedi daekmak samaaja gata kalaa.
+/home/datasets/sinhala/referenced/sin_6897_9309918804.wav|loku galgeDiyak aragena ara vanduragee oluvaTa gaehuvaa.
+/home/datasets/sinhala/referenced/sin_6897_9313266622.wav|yama rajatumaa ohuTa deevaduutayan pasdenek gaena sihipat karayi.
+/home/datasets/sinhala/referenced/sin_6897_9319427780.wav|vilii naemaeti viseesa gati guna aeti pudgalayaagee kataandarayayi.
+/home/datasets/sinhala/referenced/sin_6897_9333472808.wav|haebaeyi aettaTama ohu etanin yannama yanne naehae.
+/home/datasets/sinhala/referenced/sin_6897_9383807040.wav|raahula haamuduruvan pavaa kaTayutu karanu laebuvee ee ayurini.
+/home/datasets/sinhala/referenced/sin_6897_9434202485.wav|haebaeyi mama eeka ahanna puruduvelaa hiTiyee naehae.
+/home/datasets/sinhala/referenced/sin_6897_9544689759.wav|rajatumaa eya veeluvanaaraamaya namin budurajaanan vahanseeTa puujaa kalaa.
+/home/datasets/sinhala/referenced/sin_6897_9612005079.wav|haema yaaluvekgema adahas valaTa goDak stuutiyi.
+/home/datasets/sinhala/referenced/sin_7183_0009386940.wav|cek janarajaya saha sloovaekiyaava dakunen maayim vii aeta.
+/home/datasets/sinhala/referenced/sin_7183_0119386806.wav|mokada lamkaaveedi vagee anit raTavaladi baanna tahanam.
+/home/datasets/sinhala/referenced/sin_7183_0164870955.wav|issara gaman biman giyee payin naetnam karattayen.
+/home/datasets/sinhala/referenced/sin_7183_0193989478.wav|enayin honda naraka devargayeema nirmaana tibiya yutuya.
+/home/datasets/sinhala/referenced/sin_7183_0306258692.wav|meeken maeDagaskaar aerenna anit dekama baeluvaa.
+/home/datasets/sinhala/referenced/sin_7183_0428658122.wav|metaena tiyennee atisayooktiyaTa naemvuu upamaavak.
+/home/datasets/sinhala/referenced/sin_7183_0511906574.wav|mul kaalayee mama edesa no balaa siTiimaTa vaeeyam kalemi.
+/home/datasets/sinhala/referenced/sin_7183_0522968428.wav|aetulaTa giya ohu paeya baagayakaTa pamana pasu eliyaTa aavee satuTeni.
+/home/datasets/sinhala/referenced/sin_7183_0541352655.wav|mema gambada palaata ohugee puhunuva anuva gattahama vaeDak karannama naeti taenak.
+/home/datasets/sinhala/referenced/sin_7183_0709070815.wav|antavaadii pirisakagen kavadaavat samaajayaTa yahapatak venne naee.
+/home/datasets/sinhala/referenced/sin_7183_0719752029.wav|oya siddhiya gaena maat eccara daenam hiTiyee naee.
+/home/datasets/sinhala/referenced/sin_7183_0756046600.wav|udaara pudgalayaa siyalu denaagee yahapataTa kaemaetiyi.
+/home/datasets/sinhala/referenced/sin_7183_0819117180.wav|buddhimatek kiyala handunvana maeTToo tavamat innavaa.
+/home/datasets/sinhala/referenced/sin_7183_0829191936.wav|menna mee gamana nam aengee mayil kelin vena gamanak bava kiva yutuyi.
+/home/datasets/sinhala/referenced/sin_7183_0868463523.wav|aegee at saha kalavaa siirii tibenu hingannaa yantam duTuvee ya.
+/home/datasets/sinhala/referenced/sin_7183_0874563622.wav|meyaTa sattaahakaranayen vaeDiima lesa handunvanu laebee.
+/home/datasets/sinhala/referenced/sin_7183_1063719177.wav|mee nisaa samaajaya duusana bhiisana ghaatanavalin pirii pavatii.
+/home/datasets/sinhala/referenced/sin_7183_1487936395.wav|mema pohoo dinayehi sidu vuu aagamika siduviim raesaki.
+/home/datasets/sinhala/referenced/sin_7183_1534787329.wav|aayet dolahe nivus baeluvet api kaTTiyama taniyama.
+/home/datasets/sinhala/referenced/sin_7183_1604796429.wav|meekee tiyena tahanam kalaapayaTa kaaTavat yanna baehae.
+/home/datasets/sinhala/referenced/sin_7183_1743187045.wav|mulinma aavee mamayi tava kollekuyi kelloo tun hatara denekuyi.
+/home/datasets/sinhala/referenced/sin_7183_1877425939.wav|upa viduhalpati nikam leDa daaganii.
+/home/datasets/sinhala/referenced/sin_7183_1886625053.wav|anek evaeni ma raTak vanuyee boliiviyaavayi.
+/home/datasets/sinhala/referenced/sin_7183_1900786644.wav|mudal kalamanaakaranaya durvala nisphala tattvayak aeti keree.
+/home/datasets/sinhala/referenced/sin_7183_1915425126.wav|oya siddhiya vunu avasthaavee mamat etaena hiTiyaa.
+/home/datasets/sinhala/referenced/sin_7183_1932220079.wav|menna api vagee poDi lamayinTa balanna hoda naeti ekak daaloo.
+/home/datasets/sinhala/referenced/sin_7183_2112879655.wav|aacar blaD upannee cikaagoo hidiiya.
+/home/datasets/sinhala/referenced/sin_7183_2269268616.wav|amutuvenma maevunu apaayakaTa polava palaagena yayi.
+/home/datasets/sinhala/referenced/sin_7183_2309879494.wav|mema pasu bimehi indiyaanu aanDuva nivaasak idi kiriimaTa idiripat viima gaena api satuTa haa saenasiimaTa pat vimu.
+/home/datasets/sinhala/referenced/sin_7183_2372408028.wav|iiTa passe poDi saeman Tin kihipayakut hoyaagatta.
+/home/datasets/sinhala/referenced/sin_7183_2504124849.wav|meeka dannee mayiyokkaa gahak galavapu kenek tamayi.
+/home/datasets/sinhala/referenced/sin_7183_2993327952.wav|dangayaaTa issara poliisiyee mahatvaru pennannaTa baeriya.
+/home/datasets/sinhala/referenced/sin_7183_3279734120.wav|mema gamaneedii maranayaTa patvana aya saedaehaetiyan atara viya.
+/home/datasets/sinhala/referenced/sin_7183_3578473944.wav|nattal davase ekaTa dekak ma aran aevilla tiyenne.
+/home/datasets/sinhala/referenced/sin_7183_3615086775.wav|dhanavatma pavulaka daraevakuTa aera eya karannaTa haekiyaavak naehae.
+/home/datasets/sinhala/referenced/sin_7183_3705642506.wav|badulla banDaaravela saha haputalee aadii samcaaraka puravarayanda uuva palaata satu vee.
+/home/datasets/sinhala/referenced/sin_7183_3719044363.wav|ek vasaraka adhika vaeDa kiriimenda asaniipa tattvayenda atisayin vehesaTa pat vuu cekoov caarikaavak sandahaa yukreenaya balaa piTat vuneeya.
+/home/datasets/sinhala/referenced/sin_7183_3748554233.wav|aetulkooTTee hamdiya gaena maagee daeniima nam eccarama naehae.
+/home/datasets/sinhala/referenced/sin_7183_3847244983.wav|metanaTa kelinma seT vennee naee kiyalayi maTa nam hitennee.
+/home/datasets/sinhala/referenced/sin_7183_3969914223.wav|mulinma ee lamayaa gee parighanaka daenuma soyaa baeliya yutuyi.
+/home/datasets/sinhala/referenced/sin_7183_3977950878.wav|metaena evaennak siduvii aeti bavak maTa nam nopenee.
+/home/datasets/sinhala/referenced/sin_7183_4171763965.wav|aniyam maargavalin mudal labaagata haeki davasaki.
+/home/datasets/sinhala/referenced/sin_7183_4297768223.wav|etaena kii denek hiTiyaada kiyalaa kiyanna maTa baehae.
+/home/datasets/sinhala/referenced/sin_7183_4579198558.wav|menna meeka nisaa tamayi japaanaya ehema karala tiyennee.
+/home/datasets/sinhala/referenced/sin_7183_4703232260.wav|davasee kaTayutu baadhaavakin torava karagena yaamaTa haekivee.
+/home/datasets/sinhala/referenced/sin_7183_4905897274.wav|agoostu vala puccapu heena vapurannee mona kaalayeeda.
+/home/datasets/sinhala/referenced/sin_7183_4907447836.wav|mituraa pilibanda vividha dos nagannavun valakayi.
+/home/datasets/sinhala/referenced/sin_7183_4961687291.wav|mema niiti regulaasi valin rimgaa yaama pahasu naeta.
+/home/datasets/sinhala/referenced/sin_7183_5095819175.wav|oyagollot DavunlooD karalama balanna kataavee mokakda vennee kiyalaa.
+/home/datasets/sinhala/referenced/sin_7183_5126626238.wav|metek dura apit ekka aapu okkomalaTa bohoma stutiyi.
+/home/datasets/sinhala/referenced/sin_7183_5197179544.wav|meeka poosT kalaaTa goolayaa sahoodarayaaTa taeenks veevaa.
+/home/datasets/sinhala/referenced/sin_7183_5266766690.wav|mulinma karannee vaeradikaruda nivaeradikaruda kiyalaa kaTTiyagee chandaya vimasana eka.
+/home/datasets/sinhala/referenced/sin_7183_5341736940.wav|mee dina paeraeni kaalayee pohoya dolahakaTa bedaa tibuna.
+/home/datasets/sinhala/referenced/sin_7183_5494912525.wav|metaenadii venat aturu tarkayakut paenanaginavaa needa.
+/home/datasets/sinhala/referenced/sin_7183_5546395189.wav|mema gamana parsiyaanu kaviyek da vistara kara aeta.
+/home/datasets/sinhala/referenced/sin_7183_5574362752.wav|gaveesakayaa siya viduli pandama pasekaTa yomu kaleeya.
+/home/datasets/sinhala/referenced/sin_7183_5958003747.wav|hayilevel paara maharagama koTTaava hoomaagama harahaa ratnapura yaa karayi.
+/home/datasets/sinhala/referenced/sin_7183_6364063835.wav|meevaa ekinekaTa ven kara handunaa gaeniima duskaraya.
+/home/datasets/sinhala/referenced/sin_7183_6375371796.wav|mema kaesbaeevaa sorakam kiriima sambandhava magee kisi sambandhayak naehae.
+/home/datasets/sinhala/referenced/sin_7183_6379066828.wav|ek daladaa vahansee namak gandhaara purayehi pidum labat.
+/home/datasets/sinhala/referenced/sin_7183_6514998428.wav|palliyen piTava yana mohu sorun raelakaTa asu venavaa.
+/home/datasets/sinhala/referenced/sin_7183_6559349400.wav|ekkenek aenjaliinaa vagee lassanama lassana kellek.
+/home/datasets/sinhala/referenced/sin_7183_6589322578.wav|aenjaloo maetivs tava duraTat TesT saha ekdina kanDaayamvala naayakayaa lesa kaTayutu karayi.
+/home/datasets/sinhala/referenced/sin_7183_6753335981.wav|mukhaya vaTaa vuu raeli valin golu bava niruupanaya vee.
+/home/datasets/sinhala/referenced/sin_7183_6842032326.wav|meekaa kiyannee harak mas naetiva balumas kanna kiyalada.
+/home/datasets/sinhala/referenced/sin_7183_6940689242.wav|meekaa gatta kaTaTa kiyaapi naee kisima varadak naee kiyalaa.
+/home/datasets/sinhala/referenced/sin_7183_6948189928.wav|meyin matu kala karunu pilibanda dharmadharayoo vimasatvaa.
+/home/datasets/sinhala/referenced/sin_7183_6958092532.wav|nattal kaaledii amutu aturudahanviim kihipayak siddha venavaa.
+/home/datasets/sinhala/referenced/sin_7183_7050606462.wav|iraanayee aganuvara Teheraan vee.
+/home/datasets/sinhala/referenced/sin_7183_7215489298.wav|metek dinak raekiyaa pilibandava paevati karadara ivat veyi.
+/home/datasets/sinhala/referenced/sin_7183_7233341066.wav|mee sambandha matavaada raasiyak daenaTa idiripatva aeta.
+/home/datasets/sinhala/referenced/sin_7183_7364635497.wav|mee daruvaagee raekavaranayaTa kisima manussayek naehae.
+/home/datasets/sinhala/referenced/sin_7183_7428272771.wav|mee lookayehi samahara kenek musaavaadayen vaelakii siTiyi.
+/home/datasets/sinhala/referenced/sin_7183_7493976599.wav|idiriyaTa paemini minisunva kiitu kiitu karalaa daemmaa.
+/home/datasets/sinhala/referenced/sin_7183_7554984766.wav|nuvanuyi maayi suramga lakmaaluyi campaka sar ekka hiTiya.
+/home/datasets/sinhala/referenced/sin_7183_8029600446.wav|dhiivara aampanna haa booTTu enjin aanayanayeedii adaala baDu aDu karanavaa.
+/home/datasets/sinhala/referenced/sin_7183_8033419364.wav|meccara kaalayak hiTiyee sat gunavat upaasakayek vagee.
+/home/datasets/sinhala/referenced/sin_7183_8060917691.wav|meeka mulu jaatiyak goDa naganna damana attivaaramak.
+/home/datasets/sinhala/referenced/sin_7183_8067534522.wav|balana koTa Tavun hool eka addara tibuna taappayak uDa vaaDivelaa dennek innavaa.
+/home/datasets/sinhala/referenced/sin_7183_8124689423.wav|gayaanTa miiTa kalinut oyavagee sambandhakam tibunaa.
+/home/datasets/sinhala/referenced/sin_7183_8364136186.wav|indiyaavaTat vaDaa meeka tadin daenennee lamkaavaTa.
+/home/datasets/sinhala/referenced/sin_7183_8606783045.wav|indiaappa dusim dekak kiyanne gaeevennavat madi.
+/home/datasets/sinhala/referenced/sin_7183_8645155133.wav|miiTa passee mamat raekiyaavaTa blogar kiyalaa daanTa hitaagattaa.
+/home/datasets/sinhala/referenced/sin_7183_8681228878.wav|antarjaatika adhikaranayen cuuditayanTa varentu nikut karanavaa.
+/home/datasets/sinhala/referenced/sin_7183_8713876133.wav|melesa roohalavala apamana duk vindina satvayooma bohoo veti.
+/home/datasets/sinhala/referenced/sin_7183_8858018032.wav|medaa paara kisima vivaaha utsavayaTa pera saada vagee deeval naehae.
+/home/datasets/sinhala/referenced/sin_7183_8863316074.wav|lamkaave peeTanT ekak denne kohomada.
+/home/datasets/sinhala/referenced/sin_7183_8881325934.wav|menisaa unvahansee vaeDasiTiyat naetat kisi kenekuTa venasak teerunee naehae.
+/home/datasets/sinhala/referenced/sin_7183_8881355369.wav|mee siyalla budun vahansee deesanaa kala dharmayoo ya.
+/home/datasets/sinhala/referenced/sin_7183_9101299905.wav|miiTa avurudu tunsiiyakaTa kalin hiTiyaa nam eet mukut naehae.
+/home/datasets/sinhala/referenced/sin_7183_9196750415.wav|meeka miiTa issellaat mama sadahan karalaa tiyena deyak.
+/home/datasets/sinhala/referenced/sin_7183_9219653029.wav|meeka dakina caali movungen paliganna paTan gannavaa.
+/home/datasets/sinhala/referenced/sin_7183_9323296214.wav|bandinna ganna iraTu Tika ee karuvaTa tamayi hira karanne.
+/home/datasets/sinhala/referenced/sin_7183_9391757337.wav|mudal pasumbiyee vuu haendunumpatin ohu kavudaeyi handunaa gaenuni.
+/home/datasets/sinhala/referenced/sin_7183_9474128676.wav|aatar sii klaak upata laebuvee emgalantayee samarseT hidiiya.
+/home/datasets/sinhala/referenced/sin_7183_9579624105.wav|mee nisayi aliyaa peraharaTa sambandha karagena tibennee.
+/home/datasets/sinhala/referenced/sin_7183_9709802113.wav|polonnaruva raajadhaaniyak haeTiyaTada parivartanaya viya.
+/home/datasets/sinhala/referenced/sin_7183_9711623706.wav|mema gaathaavehi panDitayaa kiyannee rahatan vahanseeTayi.
+/home/datasets/sinhala/referenced/sin_7183_9837514932.wav|mehi dii baellaTa da ballaaTa men ma nidahasa himi ya.
+/home/datasets/sinhala/referenced/sin_9228_0000084396.wav|metana kanda naegala uDaTa giyaama vaTeema hondaTa peenavaa.
+/home/datasets/sinhala/referenced/sin_9228_0175648630.wav|antavaadiin vaDaa biya vannee pot saha paeenvalaTayi.
+/home/datasets/sinhala/referenced/sin_9228_0234475409.wav|miiTa vasarakaTa pamana perada mevaeni siduviimak pilibandava vaartaavee.
+/home/datasets/sinhala/referenced/sin_9228_0390930205.wav|aeya gaayanayaTa suviseesii haekiyaavak aeti silpiniyaka vana bava ovun induraama pavasana deyaki.
+/home/datasets/sinhala/referenced/sin_9228_0544106533.wav|mun mee ada kaalee kuDaapola haamuduruvaru venna yanavaa.
+/home/datasets/sinhala/referenced/sin_9228_0553329879.wav|meevaayee tattvaya apaTa daeka gata haeki vana avasthaa virala ya.
+/home/datasets/sinhala/referenced/sin_9228_0570641757.wav|menna ovun eya paehaedili koTa evaa tibuna lipiya.
+/home/datasets/sinhala/referenced/sin_9228_0799657096.wav|layanal mesii saha faebrigaas labaagat goola dekakin poraToo kanDaayam supiri kusalaanayada jaya gannaa ladii.
+/home/datasets/sinhala/referenced/sin_9228_0814190113.wav|metumaa holman visvaasa karannee naehae kiyalaa kiyaapu handaa tavat deyak kiyalaa yanna oonaee.
+/home/datasets/sinhala/referenced/sin_9228_0822363844.wav|avasaana vasayen vaeDeeTa bohoma stutiyi kivvaa.
+/home/datasets/sinhala/referenced/sin_9228_1030047216.wav|indu lamkaa givisumaTa daeevuruddak pirunee juuli maasayeediiya.
+/home/datasets/sinhala/referenced/sin_9228_1175836358.wav|uDunuvara yaTinuvara dumbara heevaahaeTa haarispattuva.
+/home/datasets/sinhala/referenced/sin_9228_1195680126.wav|metaena gal bokka kiyana taenee naemguram daemmaa kiyalaa sandahan venavaa.
+/home/datasets/sinhala/referenced/sin_9228_1205629869.wav|muunat ekka taraha velaa nahaya kapaagena tiyenavaa meekaa.
+/home/datasets/sinhala/referenced/sin_9228_1393061918.wav|naagarika samvardhana adhikaariya gaalumuvadorapiTiya paudgalika samaagamakaTa badudiimaTa kaTayutu suudaanam karana ladii.
+/home/datasets/sinhala/referenced/sin_9228_1504581063.wav|meeka sampurnayenma raeegata karala tiyenne simgappuuruvee.
+/home/datasets/sinhala/referenced/sin_9228_1541742979.wav|mee nisaa hetema saariirika veedanaa pamanak vindiyi.
+/home/datasets/sinhala/referenced/sin_9228_1544142459.wav|mema palamu gilanpasa puujaavaTa paeni vargat palaturu yusa vargat gaenee.
+/home/datasets/sinhala/referenced/sin_9228_1777621254.wav|mul kopi miladii aragena tamangee nama gahagena eevaa vinaasa karanavaa.
+/home/datasets/sinhala/referenced/sin_9228_1780707976.wav|mema pada nuutana vaadakayin notakaa haeriima nisaa parihaaniyaTa yamin pavatii.
+/home/datasets/sinhala/referenced/sin_9228_1849547964.wav|mehi puraana dambadiva pilibanda vaartaavan aDamgu vee.
+/home/datasets/sinhala/referenced/sin_9228_1939276200.wav|muva ramcuvak paara maedaTa paemina navatiyi.
+/home/datasets/sinhala/referenced/sin_9228_1975618108.wav|mee vihaaraya simgappuuruvee daenaTa aeti visaala theravaadii vihaarayayi.
+/home/datasets/sinhala/referenced/sin_9228_2014790642.wav|oya film ekat kohomahari horaaTa riliis veyi.
+/home/datasets/sinhala/referenced/sin_9228_2042123057.wav|meya haema viTama iTuvii tibee yaeyi sitiya nohaekiya.
+/home/datasets/sinhala/referenced/sin_9228_2052589294.wav|aetta aeti saeTiyen kataa kalot mehi siduvii aettee meyayi.
+/home/datasets/sinhala/referenced/sin_9228_2161188306.wav|muhudu paelaeeTi vala kiyanna baeri taram alamkaara mal pipilaa.
+/home/datasets/sinhala/referenced/sin_9228_2197118073.wav|aettaTama ada koTasee avasaanayaTa nam maTat duka hitunaa.
+/home/datasets/sinhala/referenced/sin_9228_2277161271.wav|mokada vaeradunot naeti vennee roogiyaagee jiivitee.
+/home/datasets/sinhala/referenced/sin_9228_2531958795.wav|itim oovaa okkama kiyavalaa ivaravenakoTa edaa davasa ivarayi.
+/home/datasets/sinhala/referenced/sin_9228_2539701660.wav|metanim ehaaTa vena eevaa oyaaTama balalaa rasavindinna venavaa.
+/home/datasets/sinhala/referenced/sin_9228_2582332986.wav|menna mee vidihaTa mee nuvanayi sihiyayi keles tavana viiryayayi.
+/home/datasets/sinhala/referenced/sin_9228_2840141256.wav|aaramciya gama puraa paetira giyee viduli veegayeni.
+/home/datasets/sinhala/referenced/sin_9228_2891654038.wav|mulinma boodhiin vahansee tirayakin aavaranaya karanu laebiiya.
+/home/datasets/sinhala/referenced/sin_9228_3173804369.wav|meekat ara mam poDitti nidi karavanna kivva ekak.
+/home/datasets/sinhala/referenced/sin_9228_3395907889.wav|menna kenek daen maget ekka oTTu allanTa aavaa.
+/home/datasets/sinhala/referenced/sin_9228_3494673511.wav|mema alut arthakathanayehi deesapaalana muvahata itaa tiiranaatmaka ya.
+/home/datasets/sinhala/referenced/sin_9228_3751602574.wav|yaksa kumbhaanDa aadiin apa deviyan kiyaa hoo nosalakamu.
+/home/datasets/sinhala/referenced/sin_9228_3886616617.wav|ivasiimen yutuva dhaarmikava kaalaya gata kiriima sudusuya.
+/home/datasets/sinhala/referenced/sin_9228_3901595513.wav|aegee ekama aramuna vennet taman karana kaTayutta tula paripuurnatvayaTa pat vennayi.
+/home/datasets/sinhala/referenced/sin_9228_3947084014.wav|meya tamaa visinma nuvanin vimasaa baeliya yuttaki.
+/home/datasets/sinhala/referenced/sin_9228_4214967642.wav|pansal paarenut paaraTa yaabada dola paarakin dekaTa bedii tibee.
+/home/datasets/sinhala/referenced/sin_9228_4439109075.wav|ahannamayi indiye mee kakaage voyis ekada kiyala.
+/home/datasets/sinhala/referenced/sin_9228_4693210419.wav|upasiraesi gonuvee yam doosayak tibii eya niraakaranaya karanu laebuvaa.
+/home/datasets/sinhala/referenced/sin_9228_4738767661.wav|peraharee mulinma gaman karannee polis pera gaman rathayak viimada tavat viseesatvayaki.
+/home/datasets/sinhala/referenced/sin_9228_4845872753.wav|kautukaagaara aaraksaakiriima rajayee vagakiimak kivvaa.
+/home/datasets/sinhala/referenced/sin_9228_4963895869.wav|etaen paTan eya maTa pariharanaya karannaTa sitennee naehae.
+/home/datasets/sinhala/referenced/sin_9228_5098181513.wav|ugee siruree diga palala senTimiiTar dahayak taramya.
+/home/datasets/sinhala/referenced/sin_9228_5175819098.wav|aasiri ekee liyavunu mee kataavee magee anuvaadaya hiten kiyavamin innee.
+/home/datasets/sinhala/referenced/sin_9228_5288236689.wav|namut eya apahaasaatmaka bava ikmaninma maTa teerunaa.
+/home/datasets/sinhala/referenced/sin_9228_5317132625.wav|miiTa vaDaa sita siyum kala yutuyi kiyaa sitanavaa.
+/home/datasets/sinhala/referenced/sin_9228_5319996060.wav|lajjaava yanuven mehi adahas koTa aettee pavaTa lajjaaviimayi.
+/home/datasets/sinhala/referenced/sin_9228_5383873830.wav|aegen pasu aegee baala soyuriyaTa uruma vuu aendumakin itiri vuu redi kaDak aeya duTuvaa ya.
+/home/datasets/sinhala/referenced/sin_9228_5521699462.wav|umba kaaloo ponseekaagee kavuruharida kiyala maTa saekayi.
+/home/datasets/sinhala/referenced/sin_9228_5835359007.wav|reemayayi vairayayi ataree venasa kes gasakaTa samayi.
+/home/datasets/sinhala/referenced/sin_9228_5864536358.wav|eya aDu taramin visaalama mahavaeli jalaasaya hoo novee.
+/home/datasets/sinhala/referenced/sin_9228_5941293912.wav|etaen paTan desatiyak yanaturu kataabas kalee naee.
+/home/datasets/sinhala/referenced/sin_9228_6115223649.wav|mal genenTa dena mudalin aDakma sorakam karanavaa.
+/home/datasets/sinhala/referenced/sin_9228_6147562901.wav|meekaTa kiyanavaa paccattam veeditabba viknknuuhi kiyala.
+/home/datasets/sinhala/referenced/sin_9228_6305647977.wav|mutuhara sangaraaven tamaa juuls varnava mama handunaagattee.
+/home/datasets/sinhala/referenced/sin_9228_6415277187.wav|meeka piyaa ahimi daruvanTa viruddha himsanaatmaka kiyaviimak.
+/home/datasets/sinhala/referenced/sin_9228_6530355936.wav|mema chaayaaruupayehi penena kaantaava da evaenniyaki.
+/home/datasets/sinhala/referenced/sin_9228_6551954582.wav|deesasiimaahi nosansunkaarii tattvayak aetiva tibini.
+/home/datasets/sinhala/referenced/sin_9228_6663937934.wav|mema piTapata tooraa gaeniimaTa kaaranaa dekak heetu vunaa.
+/home/datasets/sinhala/referenced/sin_9228_6728712105.wav|mema aaraamaya pilibandava paehaedili kiriimak karanna.
+/home/datasets/sinhala/referenced/sin_9228_6788697721.wav|etakoTa ee raTee miiTa vaDaa aparaadha vaeDi venna oonaa nee.
+/home/datasets/sinhala/referenced/sin_9228_6889136728.wav|itaaliyaanu ardhadviipaya tula in vaTa vii pihiTaa tibee.
+/home/datasets/sinhala/referenced/sin_9228_6913372441.wav|oya hindi sinduva mam issellama aehuvee eeka andha lamayaa kiyana viTayi.
+/home/datasets/sinhala/referenced/sin_9228_7160390192.wav|mura kaarayaa karannee kumakdaeyi nodaena kaTa aeragenaya.
+/home/datasets/sinhala/referenced/sin_9228_7160780618.wav|miiTa avurudu pansiiyakaTa kalin hiTiyaa nam eet eccarayi.
+/home/datasets/sinhala/referenced/sin_9228_7175568893.wav|alutma caritaya tamayi maaduluvaavee soobhita haamuduruvoo.
+/home/datasets/sinhala/referenced/sin_9228_7176380356.wav|mee akusalaya tun dorin kumana dvaarayakaTa ayatda.
+/home/datasets/sinhala/referenced/sin_9228_7451519610.wav|mul kaale livva poosT nisaa goDaak aya palaveni eka balala naetuva aeti.
+/home/datasets/sinhala/referenced/sin_9228_7591364892.wav|aanDuvaTa uvamanaavak tibunanam hondaTa karanna tibunaa.
+/home/datasets/sinhala/referenced/sin_9228_7644203225.wav|poduvee anun venuven vaeDipura viyadam yedena vasaraki.
+/home/datasets/sinhala/referenced/sin_9228_7805103839.wav|nava nirmaana elidaekviima sandahaa sthaanayak da tibee.
+/home/datasets/sinhala/referenced/sin_9228_7854804711.wav|sarala heetu daekviimakin hitaaganna puluvan vunaa.
+/home/datasets/sinhala/referenced/sin_9228_7993990514.wav|samahara jarmaanuvan uturu aemerikaavaTa paeminiyaha.
+/home/datasets/sinhala/referenced/sin_9228_8126276173.wav|mee pilibandava paeraenima saTahana thuupavamsayee sandahan vee.
+/home/datasets/sinhala/referenced/sin_9228_8206177024.wav|meeka mama baannam kiyalaa hiTiyee eet amataka vunaa.
+/home/datasets/sinhala/referenced/sin_9228_8345234486.wav|mema lenee liyaa aeti sellipiyaTa ema puvata sahatika karayi.
+/home/datasets/sinhala/referenced/sin_9228_8494777836.wav|enamudu vinoodaasvaadayaTa vaeDipura viyadam kiriimen valakinna.
+/home/datasets/sinhala/referenced/sin_9228_8742351466.wav|meeka sammaana bohomayakaTa nirdeesa velaa tiyenavaa.
+/home/datasets/sinhala/referenced/sin_9228_8849249413.wav|mema kandavuree siyaluma jaatiin aagam vala janataava ekaTa veseti.
+/home/datasets/sinhala/referenced/sin_9228_8866977892.wav|mun monavada mee liyanne kiyala hitenava velaavakaTa.
+/home/datasets/sinhala/referenced/sin_9228_8935666816.wav|meya kap ruk vaesiima yanuven handunvanu laebee.
+/home/datasets/sinhala/referenced/sin_9228_8967768400.wav|mema kiyaman tula aeti yathaarthaya vimasaa baeluva hot.
+/home/datasets/sinhala/referenced/sin_9228_8981275962.wav|mema pirisa looka aarthikayee saelakiya yutu parimaavaki.
+/home/datasets/sinhala/referenced/sin_9228_8986516519.wav|meevaa haera mee sirurin kavadaavat suvandak hamannee naehae.
+/home/datasets/sinhala/referenced/sin_9228_9031956683.wav|mema tiiranaya pilibada podu janataava tula paehaedili saakacchaavak tavamat goDa naegii naehae.
+/home/datasets/sinhala/referenced/sin_9228_9383219515.wav|mee kiyannee eeka paarsavika aadarayak gaena venDoona.
+/home/datasets/sinhala/referenced/sin_9228_9418038410.wav|magen vaeradi velaa tiyenavaa nam samaava ganna oonee.
+/home/datasets/sinhala/referenced/sin_9228_9470191283.wav|mulu taenitalaavama sinaa hanDin samgiitayen pirunaa.
+/home/datasets/sinhala/referenced/sin_9228_9604135099.wav|mee sandahaa diirghakaaliina visandumak labaadiya yutu ya.
+/home/datasets/sinhala/referenced/sin_9228_9676879401.wav|aetta kivvot meeka oya kaesaT paTayakin kala nohaekiyi.
+/home/datasets/sinhala/referenced/sin_9228_9764401127.wav|aajanTinaavee buvanoos ayars hiidi metumaanan lovaTa bihiviya.
+/home/datasets/sinhala/referenced/sin_9228_9771838233.wav|maa vimasuuyee evan niitiyak aettee koheeda yannayi.
+/home/datasets/sinhala/referenced/sin_9228_9856295112.wav|eeka tamayi tambapanni kiyala nama vaeTilaa tiyennee.
+/home/datasets/sinhala/referenced/sin_9228_9921254975.wav|medaa saeree saakacchaavak vidiyaTa neveyi needa pala karala tiyenne.

@@ -1,5 +1,5 @@
 cd /home
-mkdir -r datasets/sinhala
+mkdir -p datasets/sinhala
 cd datasets/sinhala
 wget https://github.com/pathnirvana/tacotron2/releases/download/1/sinhala.zip
 unzip sinhala.zip

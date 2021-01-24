@@ -11,8 +11,15 @@ _id_to_symbol = {i: s for i, s in enumerate(symbols)}
 # Regular expression matching text enclosed in curly braces:
 _curly_re = re.compile(r'(.*?)\{(.+?)\}(.*)')
 
-
 def text_to_sequence(text, cleaner_names):
+  ''' simpler function for transliterated sinhala - could use for pali too
+    check the symbols.py for the allowed lowercase letters
+  '''
+  return _symbols_to_sequence(_clean_text(text, cleaner_names))
+
+
+
+def text_to_sequence_orig(text, cleaner_names):
   '''Converts a string of text to a sequence of IDs corresponding to the symbols in the text.
 
     The text can optionally have ARPAbet sequences enclosed in curly braces embedded

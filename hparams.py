@@ -28,9 +28,9 @@ def create_hparams(hparams_string=None, verbose=False):
         #training_files='filelists/ljs_audio_text_train_filelist.txt',
         #validation_files='filelists/ljs_audio_text_val_filelist.txt',
         # text_cleaners=['english_cleaners'], # for LJS data
-        training_files='/home/datasets/sinhala/train_filelist.txt',
-        validation_files='/home/datasets/sinhala/val_filelist.txt',
-        text_cleaners=['basic_cleaners'], # for sinhala data - lowercase and collapse whitespace
+        training_files='filelists/train_filelist.txt',
+        validation_files='filelists/val_filelist.txt',
+        text_cleaners=['noop_cleaners'], # for sinhala data - already cleaned - has couple of uppercase letters D and T
 
         ################################
         # Audio Parameters             #
