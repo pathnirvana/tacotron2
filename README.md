@@ -1,13 +1,13 @@
 # Used for pali and sinhala tts 
 
-`
+```
 !pip install tensorflow==1.15.2
 !git clone https://github.com/pathnirvana/tacotron2
 
 !sh tacotron2/setup_tacotron.sh
 !sh tacotron2/setup_datasets.sh
 !python tacotron2/train.py --output_directory=outdir --log_directory=logdir --hparams=batch_size=48
-`
+```
 Following are the origianl instructions from Nvidia
 
 # Tacotron 2 (without wavenet)
